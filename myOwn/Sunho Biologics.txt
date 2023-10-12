@@ -1,0 +1,1348 @@
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                          SUMMARY
+
+       This summary aims to give you an overview of the information contained in this
+  document and is qualified in its entirety by, and should be read in conjunction with, the
+  more detailed information and financial information appearing elsewhere in this
+  document. As this is a summary, it does not contain all the information that may be
+  important to you and we urge you to read the entire document carefully before making
+  your [REDACTED] decision. There are risks associated with any investment. In
+  particular, we are a biotechnology company seeking a [REDACTED] on the
+  [REDACTED] of the [REDACTED] under Chapter 18A of the Listing Rules on the
+  basis that we are unable to meet the requirements under Rule 8.05 (1), (2) or (3) of the
+  Listing Rules. Some of the particular risks in [REDACTED] in the [REDACTED] are
+  set out in the section headed "Risk Factors" in this document. You should read that
+  section carefully before you decide to [REDACTED] in the [REDACTED].
+
+OVERVIEW
+
+     We are a biopharmaceutical company committed to the discovery, development and
+commercialization of first-in-class/best-in-class biologics that regulate immune
+microenvironment by directly modulating both the innate and adaptive immune systems.
+Leveraging our deep understanding of immunology, we have developed various types of
+immunotherapies including immunocytokines to treat cancers and autoimmune diseases. We
+stand out as one of the world's leading companies in developing immunocytokine products, and
+are among the few early movers with the most clinically advanced immunocytokine candidates,
+according to Frost & Sullivan. We aim to develop innovative therapies that overcome
+disadvantages of currently available treatments, including low response rates and drug
+resistance, and to bring perceivable benefits and affordable medicine to patients worldwide.
+
+     Since our inception in 2018, we have built fully-integrated, end-to-end, in-house R&D
+capabilities encompassing all the key biological drug development functionalities, including
+discovery, antibody and protein engineering, process development, preclinical pharmacology
+studies, clinical development, and good manufacturing practice ("GMP")-compliant
+manufacturing. Through our proprietary technology platforms, we have identified and
+developed a pipeline of nine products, with six of them in clinical stage, among which three
+are identified as Core Products, i.e. IAP0971, IAE0972 and IAH0968. As a leading company
+in exploring antibody-cytokine fusion protein based drugs, we implement a global strategy for
+our immunocytokine products, and have obtained investigational new drug ("IND") approvals
+for conducting clinical trials of all three immunocytokines, namely IAP0971, IAE0972 and
+IBB0979, from regulatory authorities of both China and the U.S. According to Frost &
+Sullivan, as of the Latest Practicable Date, these three candidates were among the most
+clinically advanced immunocytokines in treating cancer patients in the world.
+
+     THERE IS NO ASSURANCE THAT WE WILL ULTIMATELY BE ABLE TO
+DEVELOP AND MARKET OUR CORE PRODUCTS OR ANY OF OUR PIPELINE
+PRODUCTS SUCCESSFULLY.
+
+                                -1-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                  SUMMARY
+
+     Our featured products, immunocytokines, are designed through our proprietary and
+internally developed Armed ImmunoCytokine Platform ("AICTM Platform"), leveraging
+significant knowledge and experience of our core R&D team in researching antibody-cytokine
+fusion proteins. They function through diverse mechanisms of action yet share a similar
+structure comprising an antibody or quasi-antibody moiety that targets tumors and blocks
+signaling pathways regulating tumor growth and proliferation, and cytokine payloads that
+activate the immune system within the tumor microenvironment ("TME"). Such design is
+expected to overcome drawbacks of conventional cytokine-based drugs, such as short
+half-lives, systemic cytotoxicity and modest efficacies due to cytokine pleiotropy and
+off-target effects. It is expected to achieve enhanced antitumor effects through the synergy
+between the antibody and cytokine payloads, which will potentially address unmet needs of
+cancer patients who suffer from disease progression related to the immunosuppressive TME
+and drug resistance.
+
+     We have received IND approvals for conducting Phase I/II clinical trials for our Core
+Products IAP0971 and IAE0972 in patients with advanced solid tumors from both the NMPA
+and the U.S. Food and Drug Administration ("FDA"), and completed the Phase I clinical trials
+in July 2023. Phase I clinical data showed that our core immunocytokine products IAP0971 and
+IAE0972 were well tolerated and demonstrated encouraging preliminary anti-tumor activities
+as monotherapy in heavily pretreated patients who have failed chemotherapy, targeted therapy,
+immunotherapy, and/or their combination.
+
+     In addition to immunocytokines, our R&D capabilities also cover development of
+candidates in forms of monoclonal antibodies ("mAbs"), bispecific antibodies ("bsAbs"), and
+fusion proteins, some of which extend indications into treatment areas beyond oncology. Our
+Core Product IAH0968 is an antibody-dependent cell-mediated cytotoxicity ("ADCC")
+enhanced mAb targeting human epidermal growth factor receptor 2 ("HER2") with 100%
+fucose knock out, which greatly enhances the binding affinity of its fragment crystallizable
+("Fc") to its receptor FcRIIIa. Data from preclinical study showed that IAH0968 increased the
+binding affinity up to 20-fold comparing to trastuzumab or Herceptin, an anti-HER2 antibody
+without enhanced ADCC activity. The Phase I clinical data demonstrated a 40% objective
+response rate ("ORR"), and an 80% disease control rate ("DCR") using IAH0968 as
+monotherapy for heavily pretreated metastatic biliary tract carcinoma ("BTC"), and colorectal
+cancer ("CRC") patients who had failed all previous therapies. Currently, we are conducting
+Phase II clinical trials in patients with inoperable HER2+ advanced or metastatic BTC and
+HER2+ metastatic CRC as first-line treatments.
+
+                                          -2-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                  SUMMARY
+
+     In addition to our Core Products mentioned above, we are developing six other product
+candidates: clinical stage products IBB0979, IBC0966 and IBD0333, and preclinical stage
+products IAN0982, ISH0988 and ISH0613.
+
+     � IBB0979, another immunocytokine developed by us based on AICTM Platform,
+         received IND approvals from both the FDA and the NMPA for conducting clinical
+         trials for B7H3-high expressing solid tumors. It is a potential first-in-class, anti-B7
+         homolog 3 protein ("B7H3") antibody-IL-10 homodimer bifunctional fusion protein
+         for immune cell activation. It is designed to bind to B7H3 and trigger blockage of
+         downstream signaling pathways that participate in TME shaping and development,
+         and deliver IL-10 to activate CD8+ T cells in the TME.
+
+     � IBC0966 is a clinical stage anti-PD-L1 antibody-signal regulatory protein 
+         ("SIRP") bifunctional fusion protein. It is a potential first-in-class PD-L1/SIRP
+         dual-target therapy that stimulates both innate and adaptive immunity, leading to
+         strong synergistic effects and long-lasting tumor-specific immune responses.
+
+     � IBD0333 also received IND approvals from both the FDA and the NMPA. It is a
+         4-1BB/CD24 bsAb, which simultaneously targets CD24 over expressed tumor cells
+         and activates the stimulatory signal of 4-1BB in CD8+ T cells to induce T cell
+         mediated antitumor immunity at the targeted tumor tissue.
+
+     � The remaining candidates, namely IAN0982, ISH0988 and ISH0613, are currently
+         in the IND enabling stage. IAN0982 is being developed for oncology, while
+         ISH0988 and ISH0613 are immunosuppressors focused on autoimmune diseases.
+
+     Our commitment to innovation is evident and supported by our proprietary technology
+platforms, which include (i) AICTM Platform, a scalable platform mainly concentrated on
+antibody-cytokine fusion protein development, (ii) ADCC Enhanced Antibody Platform
+("AEATM Platform"), a FUT8 gene knock-out cell line constructed to enhance the cytotoxicity
+of antibodies, and (iii) Armed Innate Effector Multi-specific Platform ("AIMTM Platform"),
+a platform that focuses on the development of innate immunity stimulator-based
+bispecific/multi-specific antibodies. Each of them is designed for addressing technical
+difficulties and drug resistance faced in developing immunotherapies and achieving optimized
+treatment effects. Since their launch, we have developed IAP0971, IAE0972, IBB0979,
+ISH0988 and ISH0613 based on AICTM Platform, IAH0968 based on AEATM Platform, and
+IAN0982 based on AIMTM Platform.
+
+     We have built our GMP-compliant manufacturing facilities, which enhance quality
+assurance and control of our products and fulfill clinical and potential commercial demands for
+our product candidates in a cost efficient way. Our drug substance production facility is
+currently equipped with four production lines for a total bioreactor capacity of 1,600L. We
+have completed the installation of a production line for 5,000L bioreactor capacity, which is
+currently under qualification. Our drug product facility includes one liquid injection filing
+production line and one lyophilized powder production line, which enables us to prepare
+
+                                       -3-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                     SUMMARY
+
+biological products into various dosage forms according to different needs in both clinical and
+commercial stages. Leveraging our rich experience and understanding of GMP-compliant
+manufacturing, as of the Latest Practicable Date, we had successfully completed at least 30
+batches with a success rate of 100%.
+
+     We are led by a seasoned management team with significant R&D experience and a
+proven track record. Our executive Director, chief executive officer and chief scientific officer,
+Dr. YIN Liusong, has over 16 years of experience in antibody and cytokine development and
+pipeline management, and has led more than 600 antibody drug discovery and optimization
+projects with dozens entered into clinical trials. Chairman of our Board and executive Director,
+Mr. ZHANG Feng has extensive experience in R&D, clinical development, product launch and
+marketing, and is a successful serial entrepreneur and veteran pharmaceutical professional with
+over 20 years of experience in the industry. Our management team has an average of more than
+15 years of industry experience in biologics development and business management, including
+antibody discovery and engineering, process development, GMP manufacturing, clinical
+operations and regulatory affairs. Their vision and insights are also key drivers of our success.
+
+Our Business Model
+
+     Our core business model involves internally discovering, developing and
+commercializing immunocytokines and other immunotherapies to address unmet needs in the
+fields of oncology and autoimmune diseases. We also recognize that partnerships will be a
+critical source to complement our internal resource and enable us to fully execute our global
+strategy. As such, we will actively seek collaboration opportunities with international leading
+pharmaceutical companies to advance clinical studies of our products abroad through
+out-licensing arrangements. We will also expand our international registration team to
+coordinate with KOLs and FDA regulation specialists to secure our global clinical development
+and registration plan, and strengthen the leading position of our featured products, especially
+our immunocytokine pipeline products including IAP0971, IAE0972 and IBB0979.
+
+                                          -4-
+       Cancer ImmunotherapyAutoimmune Diseases
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                                                                                    SUMMARY
+
+Our Pipeline
+
+      Our pipeline includes three Core Products: two immunocytokines and one ADCC
+enhanced mAb. The two immunocytokines, IAP0971 and IAE0972, were developed based on
+our AICTM platform. The ADCC enhanced mAb, IAH0968, was developed based on our
+AEATM Platform. The following chart summarizes the development status of our Core
+Products and other selected product candidates as of the Latest Practicable Date.
+
+                              Candidate      MoA                     Platform       Indication        Preclinical IND Enabling Phase I Phase II Phase III Commercial rights        Upcoming milestone
+
+                                                                                   Lung cancer,
+                                                                                  cervical cancer,IAP0971PD -1/IL-15(Antibody-cytokineAICTMand HNSCC                          Enter Phase II in Q4 2023Global
+                                             fusion protein)
+                                                                                     NMIBC                                                                                    Start Pivotal Trial in Q3 2024
+
+                                IAE0972   EGFR/IL -10(Antibody-cytokineAICTM        EGFR-highexpressing solid                                   Global                        Enter Phase II in Q4 2023
+                                             fusion protein)                          tumors
+
+                               IBB0979    B7H3/IL-10(Antibody-cytokineAICTM         B7H3-highexpressing solid                                   Global                        Enter Phase II in Q3 2024
+                                             fusion protein)                          tumors
+
+                                IAH0968      HER2(ADCC enhanced       AEATM           BTCmAb)CRC                                                                              Complete Phase IIrecruitment in Q4 2023GlobalComplete Phase IIrecruitment in Q4 2023
+
+                               IBC0966   PD -L1/SIRP(Bispecific antibodyfusion protein)bsFpplatformNon-HodgkinLymphoma andsolid tumors         GreaterChina*                  Enter Phase II in Q1 2024
+
+                               IBD0333    4-1BB/CD24(Bispecific immunemodulatory antibody)bsAbplatformSolid tumors                              Global                        Complete Phase I in Q42024
+
+                               IAN0982    Confidential(Multispecific innateAIMTM   Solid tumors                                                 Global                        IND filing in Q2 2024
+                                            effector activator)
+
+                               ISH0988    Confidential(Anti-inflammatoryAICTM          IBD                                                      Global                        IND filing in Q2 2024
+                                          and tissue-protective)
+
+                                          Confidential
+                               ISH0613        (Inhibit B cellactivation and IFNAICTM  SLE                                                       Global                        IND filing in Q2 2024
+                                               secretion)
+
+                                                                              Core Product              NMPA     FDA     Preclinical Study
+
+Abbreviations: HNSCC = head and neck squamous cell carcinoma; NMIBC = non-muscle invasive bladder cancer;
+BTC = biliary tract carcinoma; CRC = colorectal cancer; ADCC = antibody-dependent cell-mediated cytotoxicity;
+IBD = inflammatory bowl disease; SLE = systemic lupus erythematosus; mAb = monoclonal antibody; bsAb =
+bispecific antibody; bsFp = bispecific fusion protein; AICTM = Armed ImmunoCytokine Platform; AEATM = ADCC
+Enhanced Antibody Platform; AIMTM = Armed Innate Effector Multispecific Platform.
+
+Note:
+
+* We acquired exclusive rights from ImmuneOnco Biopharmaceuticals (Shanghai) Inc. to develop, manufacture
+      and commercialize IBC0966 in Greater China including mainland China, Hong Kong, Macau and Taiwan, as
+      well as a single-digit percentage of interests in the overseas rights of IBC0966. For more information, please
+      see "Business -- Collaboration Agreement -- Collaboration Agreement With ImmuneOnco in Relation to the
+      Development of IBC0966".
+
+                                                                                                             -5-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                   SUMMARY
+
+OUR PRODUCT CANDIDATES
+
+Core Product IAP0971 - Potential First-in-Class, Anti-PD-1 Antibody-IL-15/IL-15R
+Heterodimer Fusion Protein
+
+     Our Core Product IAP0971 is an internally developed, potential first-in-class,
+anti-programmed death -1 ("PD-1") antibody-IL-15/IL-15R heterodimer dual T cell and
+natural killer ("NK") cell agonist. IAP0971 is expected to synergistically strengthen the
+antitumor activity through blockade of the PD-1/its ligand ("PD-L1") signaling pathway and
+accumulating IL-15 at the targeted tumor site to activate its nearby immune cells, including
+CD8+ T cells and NK cells, directly activating both innate and adaptive immune systems. For
+more details on the mechanism of action of IAP0971, see "Business -- Drug Candidates --
+Core Product: IAP0971 (PD-1/IL-15 antibody-cytokine fusion protein) -- Mechanism of
+Action" in this document.
+
+     The selection of IL-15 payload and PD-1 target was based on favorable individual
+features and the potential for great cis-synergy when combined. IL-15 is deemed a promising
+candidate for developing immunotherapy that could cure cancers. It can promote activation and
+proliferation of CD8+ T cells and NK cells, and in the meantime it does not induce regulatory
+T cell ("Treg")-related immune response suppression that is often observed for IL-2 based
+cytokine drugs. Also, IL-15 inhibits IL-2-induced T cell death. As such, IL-15 can stimulate
+CD8+ cells and NK cells for a longer term and induce more rapid and robust immune responses
+without activating Tregs or inducing apoptosis of activated T cells, which are common side
+effects of IL-2-based therapies.
+
+     The selection of the anti-PD-1 antibody was based on several factors, including its ability
+to act in the same location on the T cells and NK cells as IL-15, as well as the significantly
+higher expression of PD-1 on CD8+ T cells in the TME compared to peripheral blood and
+peripheral lymphoid organs. Therefore, the combination of IL-15 and anti-PD-1 antibody can
+show cis-synergy with lower systemic cytotoxicity. Furthermore, considering the balanced
+activity and dose between the PD-1 antibody and the IL-15 cytokine, IAP0971 is designed to
+adopt the structure of an intact bivalent anti-PD-1 antibody in combination with a monovalent
+IL-15. As such, the combination can deliver targeted and controlled amount of IL-15 directly
+into the TME, which effectively recruits, activates and reinvigorates immune cells, leading to
+a significantly enhanced anti-tumor immunity.
+
+     Structure of IAP0971 is also optimized to improve biological activities, developability
+and productivities. The cytokine moiety of IAP0971 is designed to adopt a structure of IL-15
+combining with its receptor IL-15R to form a heterodimer that resembles its natural state. On
+the one hand, the natural high affinity between IL-15 and IL-15R avoids the formation of
+IL-15 homodimer and half antibody fragment, and reduces the mismatch of two different heavy
+chains of the anti-PD-1 antibody, which improves the productivity of IAP0971. On the other
+hand, the IL-15/IL-15R complex adopted in IAP0971 is reported to be more active than IL-15
+alone in stimulating proliferation and survival of memory phenotype CD8+ T cells. In addition,
+the spatial structure of IAP0971 is also optimized by embedding the IL-15/IL-15R
+heterodimer in the "hinge" region of the anti-PD-1 antibody. This structure can balance the
+dose of IL-15 cytokine with that of the PD-1 antibody, as well as prevent degradation of IL-15,
+thereby prolonging the half-life of IL-15. For more details on the competitive advantages of
+IAP0971, see "Business -- Drug Candidates -- Core Product: IAP0971 (PD-1/IL-15
+antibody-cytokine fusion protein) -- Competitive Advantages" in this document.
+
+                                        -6-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                   SUMMARY
+
+     Preclinical data showed that IAP0971 was well tolerated up to 1.0 mg/kg when
+subcutaneously administered in MC38 syngeneic mouse model. In the repeated-dose toxicity
+study in cynomolgus monkeys, IAP0971 showed a favorable safety profile even at 1.2 mg/kg,
+around 40-fold higher than an IL-15-Fc fusion protein. Furthermore, in pharmacokinetic
+analysis, IAP0971 showed a half-life of 15.7 hours, which is approximately 15-fold longer than
+that of recombinant IL-15, and approximately 2-fold longer than that of an IL-15-Fc fusion
+protein. In addition, IAP0971 achieved superior tumor inhibition rate (110.47% when treated
+with 0.5mg/kg of IAP0971 vs. 74% when treated with 0.5mg/kg of anti-PD-1 antibody) and
+complete tumor regression rate (90% when treated with 0.5mg/kg of IAP0971 vs. 50% when
+treated with 0.5mg/kg of anti-PD-1 antibody) in our preclinical study.
+
+     According to Frost & Sullivan, currently, there is no IL-15-based immunotherapy
+indicated for the treatment of cancer approved for marketing worldwide. Outside of China,
+there are eleven products under clinical development. Among these products, IAP0971 and the
+other six product candidates are IL-15 based immunocytokines. Being in the clinical stage of
+Phase I/II, IAP0971 is one of the most clinically advanced immunocytokines in the world. In
+China, there are five products currently under clinical development, with the most clinically
+advanced products in Phase I/II stage. Only two products including IAP0971 are IL-15 based
+immunocytokines, and IAP0971 is the most clinically advanced immunocytokine in China.
+
+     In July 2023, we completed Phase I clinical trial of IAP0971 for advanced malignant
+tumors. Phase I clinical data showed that IAP0971 exhibited a favorable safety profile at up to
+200킽/kg in patients with advanced malignant tumors, with no dose-limiting toxicity ("DLT")
+and maximum tolerable dose ("MTD") observed. Preliminary anti-tumor efficacy was
+observed in four patients treated with IAP0971 as a later-line therapy. These four patients
+include one with CRC, one with cervical cancer, and two with non-small cell lung cancer
+("NSCLC"), and those patients underwent multiple rounds of treatments including
+chemotherapy, targeted therapy, immunotherapy and/or their combination, and experienced
+disease progress and metastases. After receiving IAP0971 for two treatment cycles, all four
+patients achieved stable disease ("SD"). Especially, one NSCLC patient complicated with
+adrenal gland and other metastases was resistant to several prior treatments, including
+chemotherapy regimes such as multiple paclitaxel-containing combination, and combination
+therapies with targeted therapy and immunotherapy, such as erlotinib, camrelizumab,
+sintilizumab and bevacizumab. This patient received 120킽/kg IAP0971 for two treatment
+cycles and achieved SD. The other NSCLC patient complicated with pleura or pleural effusion
+metastases was resistant to several prior treatments, and also achieved SD after two cycles of
+200킽/kg IAP0971 administration.
+
+     In January 2022 and December 2021, we obtained IND clearance from both the NMPA
+and the FDA for conducting Phase I/II clinical trials in patients with advanced malignant
+tumors, respectively. In July 2023, we completed the Phase I clinical trial. As of the Latest
+Practicable Date, we have not received any concerns or objections from the NMPA related to
+the commencement of a Phase II clinical trial. We plan to initiate a Phase II clinical trial for
+IAP0971 in China in the fourth quarter of 2023. For more details on the clinical development
+plan of IAP0971, see "Business -- Drug Candidates -- Core Product: IAP0971 (PD-1/IL-15
+antibodycytokine fusion protein) -- Clinical Development Plan" in this document.
+
+                                        -7-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                   SUMMARY
+
+Core Product IAE0972 - Potential First-in-Class, Anti-EGFR Antibody-IL-10
+Homodimer Bifunctional Fusion Protein
+
+     Our Core Product IAE0972 is an internally developed, potential first-in-class, anti-EGFR
+antibody-IL-10 homodimer bifunctional fusion protein for immune cell activation. Like
+IAP0971, IAE0972 is also expected to achieve synergistical antitumor activities leveraging the
+advantages of immunocytokine yet through a different combination of antibody target and
+cytokine payload. It is designed to blockade the EGFR signaling pathway and specifically
+deliver IL-10 to the targeted tumor site to activate CD8+ T cells, and potentially NK cells. For
+more details on the mechanism of action of IAE0972, see "Business -- Drug Candidates --
+Core Product: IAE0972 (EGFR/IL-10 antibody-cytokine fusion protein) -- Mechanism of
+Action" in this document.
+
+     The development of IAE0972 aimed to address the issue of immune cell exhaustion
+observed in current PD-1/PD-L1-based immunotherapies and overcome the limitations of
+current EGFR-based mAbs. IL-10 is a potent activator of tumor-infiltrating memory cytotoxic
+antigen-specific CD8+ T cells in the TME and can restore the tumor-killing activity of
+tumor-infiltrating terminally exhausted T cells. Because the anti-EGFR antibody fragment can
+specifically enrich IL-10 in the TME, IAE0972 can effectively and specifically activate the
+immune system by reinvigorating antigen specific CD8+ T cells and facilitating its
+proliferation, and inhibiting tumor growth by blocking the EGFR signaling pathway to kill
+EGFR-positive tumor cells. As a result, it is expected to resolve the issues of low ORR and
+drug resistance commonly observed with anti-EGFR antibodies.
+
+     Like IAP0971, IAE0972 also adopts the natural structure of IL-10 that is in a homodimer
+form, so that the natural pairing between IL-10 molecules will improve the developability and
+productivity of IAE0972. But unlike IAP0971, IAE0972 adopts an asymmetric structure, which
+consists of a monovalent anti-EGFR antibody fragment and a homodimer of IL-10. Such design
+is expected to reduce the binding activity of anti-EGFR antibody on EGFR-low expression
+normal cells while preserving the biological activity on EGFR-high expression tumor cells and
+thus reduce EGFR-related skin toxicities. In addition, spatial structure of IAE0972 also
+employs the knobs-into-holes format in the Fc to promote asymmetric formation and improve
+its developability. This optimization extends the half-life of IL-10 and improves its therapeutic
+efficacy. For more details on the competitive advantages of IAE0972, see "Business -- Drug
+Candidates -- Core Product: IAE0972 (EGFR/IL-10 antibody-cytokine fusion protein) --
+Competitive Advantages" in this document.
+
+     In vivo data of the preclinical study showed that IAE0972 was well tolerated up to 6
+mg/kg in cynomolgus monkeys, which is 300 times the safe dosage of IL-10 cytokine therapy.
+Also, no obvious EGFR-related skin toxicity, no significant organ changes for liver, thymus,
+adrenal gland and thyroid gland, as well as no significant changes for levels of IL-2, tumor
+necrosis factor-alpha ("TNF") and Interferon-gamma ("IFN") were observed in the
+cynomolgus monkey repeated-dose toxicity studies. Studies showed that IAE0972 had a tumor
+growth inhibition ("TGI") rate of 83% in a MC38-hEGFR syngeneic mice model, which rate
+is significantly higher than that of an anti-EGFR antibody.
+
+                                          -8-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                  SUMMARY
+
+     In our Phase I clinical trial, we recruited 14 patients with advanced esophageal squamous
+cell carcinoma, rectal cancer, gastric cancer, pancreatic cancer, SCLC or NSCLC who
+progressed from at least one line of treatment. We completed dose escalation for 1 킽/kg, 10
+킽/kg, 100 킽/kg, 0.3mg/kg, 1.0mg/kg and 2.5mg/kg of IAE0972, and only observed one Grade
+3 adverse events. Preliminary efficacy was observed in multiple heavily pretreated patients
+who failed all previous therapies. A CRC patient complicated by lung metastasis, who has
+received multiple lines of prior treatments including standard mFOLFOX6 (5-fluorouracil,
+leucovorin and oxaliplatin) and CapeOX (capecitabine and oxaliplatin) regimens, achieved SD
+after given 10킽/kg of IAE0972 for two treatment cycles. Another patient with rectal cancer
+and lung metastasis and lymph node metastasis, who had experienced recurrence after received
+two resections, achieved SD after receiving 1.0mg/kg of IAE0972 monotherapy for two cycles.
+
+     Currently, there are no approved IL-10 based immunotherapies indicated for the treatment
+of cancer according to Frost & Sullivan. Outside of China, our IAE0972 and IBB0979 are the
+only IL-10 based immunocytokines under clinical development for cancer treatment. In China,
+three IL-10 based immunotherapies are currently under clinical development with two of them
+from us, i.e. IAE0972 and IBB0979. As of the Latest Practicable Date, our IAE0972 and
+IBB0979 are in Phase I/II clinical stage, which are the most clinically advanced IL-10 based
+immunocytokines in China.
+
+     We obtained the approval for conducting Phase I/II clinical trials in patients with
+locally-advanced or metastatic solid tumors from the FDA and the NMPA in December 2021
+and January 2022, respectively, and completed the Phase I clinical trial in July 2023. As of the
+Latest Practicable Date, we have not received any concerns or objections from the NMPA
+related to the commencement of Phase II clinical trials for IAE0972, and expect to initiate the
+Phase II clinical trial in the fourth quarter of 2023 in China. For more details on the clinical
+development plan of IAE0972, see "Business -- Drug Candidates -- Core Product: IAE0972
+(EGFR/IL-10 antibody-cytokine fusion protein) -- Clinical Development Plan" in this
+document.
+
+Core Product IAH0968 - Potential Best-in-Class, ADCC Enhanced Anti-HER2 mAb
+
+     Our Core Product IAH0968 is an internally developed, the first anti-HER2 antibody in
+clinical stage with 100% fucose-removal. Antibodies consist of two structural regions, antigen
+binding fragment ("Fab") and Fc. Unlike Fab region, which defines the specific target of an
+antibody, Fc region mediates ADCC by activating the immune system through engaging
+various Fc receptors. Studies of the structure of the Fc region of antibodies and its receptor
+FcRIIIa complex revealed that the core fucose of the Fc region is accommodated at a place
+that interferes with the binding between the Fc region and FcRIIIa, and thus reducing the
+affinity between them and resulting in lower ADCC activity. Therefore, modifying to remove
+fucose is desirable to better recruit immune cells, resulting in enhanced ADCC activity. As a
+result, this approach has been widely attempted in the biopharmaceutical industry. However,
+despite numerous attempts by multiple players to modify antibodies through various
+approaches, such as Fc point specific mutation and fucose removal, most resulting antibodies
+still contain a certain percentage of core fucose. For more details on the mechanism of action
+of IAH0968, see "Business -- Drug Candidates -- Core Product: IAH0968 (ADCC enhanced
+anti-HER2 mAb) -- Mechanism of Action" in this document.
+
+                                        -9-
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                    SUMMARY
+
+     We addressed this technical difficulty through constructing a new cell line with mutated
+FUT8 gene, which encodes an enzyme that catalyzes the transfer of fucose residue from its
+donor to its target. After genetic manipulation, the new cell line is not able to attach fucose to
+any protein it produced. In such way, we have successfully generated potentially the first
+anti-HER2 antibody with 100% removal of fucose from its Fc region, i.e. IAH0968. Such
+achievement has been verified through glycoprotein detection and glycosylation quantification.
+For more details on the competitive advantages of IAH0968, see "Business -- Drug Candidates
+-- Core Product: IAH0968 (ADCC enhanced anti-HER2 mAb) -- Competitive Advantages" in
+this document.
+
+     Produced through our AEATM Platform, IAH0968 showed an affinity between IAH0968
+and its Fc receptor five to 20 times higher than unmodified or other ADCC enhanced
+anti-HER2 antibodies in preclinical studies (especially for the FcRIIIa, 158F polymorphism).
+In vitro assays demonstrated that IAH0968 mediated stronger ADCC killing toxicity against
+HER2+ tumor cells SKBR3, BT474 and SKOV2 than trastuzumab. Moreover, IAH0968
+showed 100% TGI in a BT474 tumor cell subcutaneous murine model, superior to trastuzumab.
+In cynomolgus monkeys, IAH0968 showed an excellent safety profile, with no observed
+adverse effect at a dosage over 100mg/kg.
+
+     The Phase I clinical trial showed that IAH0968 was well tolerated and exhibited antitumor
+activities in patients with advanced HER2+ malignant solid tumors including breast cancers,
+gastric cancers, CRC and BTC with drug resistance to trastuzumab, pertuzumab, cetuximab,
+docetaxel, oxaliplatin, capecitabine, irinotecan, nab-paclitaxel and apatinib, or PD1 mAbs.
+Data showed that only one DLT was found at dosage 10mg/kg, and no MTD was reached.
+While no head-to-head study was conducted, the Phase I clinical data showed that IAH0968
+achieved significantly improved ORR and DCR in heavily pretreated metastatic CRC and BTC
+patients, when compared to the historical data of current treatments. For heavily pretreated
+metastatic CRC and BTC patients, the ORR was 40%, and DCR was 80%.
+
+     According to Frost & Sullivan, there are three anti-HER2 mAbs in clinical development
+for cancer treatment outside of China. Among them, the most advanced product is in Phase
+II/III clinical trial. In China, there are four products in clinical development, with the most
+advanced ones also in Phase II/III stage. IAH0968 stands out as the most clinically advanced
+ADCC-enhanced anti-HER2 mAb in China and rest of the world, which is currently in Phase
+II/III clinical stage.
+
+     Based on the encouraging clinical data from the Phase I trial, we obtained IND clearance
+from the NMPA to proceed with Phase II/III clinical trials of using IAH0968 in combination
+with chemotherapy for first-line treatment of inoperable HER2+ advanced or metastatic CRC
+and HER2+ metastatic BTC patients in September 2022. We have dosed the first CRC patient
+of the Phase II trial in May 2023, and expect to dose the first patient of the Phase II clinical
+trial for BTC in the third quarter of 2023. For more details on the clinical development plan
+of IAH0968, see "Business -- Drug Candidates -- Core Product: IAH0968 (ADCC enhanced
+anti-HER2 mAb) -- Clinical Development Plan" in this document.
+
+                                          - 10 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                     SUMMARY
+
+IBB0979 - Potential First-in-Class, Anti-B7H3 Antibody-IL-10 Homodimer Bifunctional
+Fusion Protein
+
+     IBB0979, another immunocytokine developed by us, is a clinical stage, potential
+first-in-class, anti-B7H3 antibody-IL-10 homodimer bifunctional fusion protein for immune
+cell activation. It is designed to bind to B7H3 and trigger blockage of downstream signaling
+pathways that participate in TME shaping and development, and deliver IL-10 to activate
+CD8+ T cells to fight against tumors. Preclinical study showed that IBB0979 has high affinity
+to both targets and exhibited potent TGI in C57BL/6J mice bearing MC38-hB7H3 cell line,
+with TGI of 100% at 0.3mg/kg, 1mg/kg and 3mg/kg respectively. An in vivo study in
+cynomolgus monkeys showed that after intravenously administered with 1 mg/kg, 2 mg/kg and
+6 mg/kg of IBB0979 once a week for 29 days (5 times in total, given in days 1, 8, 15, 22 and
+29), MTD was not reached up to 6 mg/kg. There was no administration-related mortality, and
+no donor-related changes observed.
+
+     According to Frost & Sullivan, there are currently no approved B7H3-targeted
+immunotherapies indicated for the treatment of cancer. Outside of China, there are twelve
+products in various stages of clinical development, with the most advanced candidates
+undergoing Phase II clinical trials. In China, six products targeting B7H3 are currently under
+clinical development, with the most advanced product in Phase II. Globally, among all product
+candidates targeting B7H3, the Company's product IBB0979 stands out as the only
+immunocytokine currently undergoing investigation in clinical trials.
+
+     We obtained the approval for conducting Phase I/II clinical trials in patients with
+locally-advanced or metastatic solid tumors from the FDA and the NMPA in October 2022 and
+November 2022, respectively. The Phase I/II clinical trial is currently on-going, with the first
+patient dosed in July 2023. Since B7H3 is overexpressed in a wide range of cancers including
+glioma, thyroid, lung, head and neck, rectal, prostate, breast, skin, renal cell, and ovarian
+cancers, it has the potential to become a next-generation therapy for resolving T cell exhaustion
+in cancer patients.
+
+     For more details on IBB0979, see "Business -- Drug Candidates -- Clinical-Stage
+Product IBB0979 (B7H3/IL-10 antibody-cytokine fusion protein)" in this document.
+
+Other Pipeline Products
+
+     In addition to our product candidates mentioned above, we are developing a number of
+clinical stage and IND-enabling product candidates that we believe have high commercial
+viability. As of the Latest Practicable Date, except for IBC0966, we maintained the global
+rights to develop and commercialize them. For IBC0966, we have exclusive rights to develop,
+manufacture and commercialize in Greater China including mainland China, Hong Kong,
+Macau, and Taiwan and have partial overseas rights.
+
+     � IBC0966: IBC0966 is a clinical stage, potential first-in-class, anti-PD-L1
+         antibody-SIRP bifunctional fusion protein that simultaneously stimulates both
+         innate and adaptive immunity to achieve strong synergistic effects and induce
+         long-lasting tumor-specific immune responses. It is designed to bind to PD-L1 and
+         trigger blockage of the PD-1/PD-L1 signaling pathway to enable T cells to recognize
+
+                                         - 11 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                    SUMMARY
+
+         and kill targeted cancer cells, and in the meantime deliver SIRP to the targeted
+         TME to interact with CD47 to block the "don't eat me" signal of macrophages for
+         tumor cell killing. In March 2021, we obtained the IND approval from the NMPA
+         for conducting clinical trials of IBC0966. As of the Latest Practicable Date,
+         IBC0966 was under Phase I/II clinical trials as a monotherapy for solid tumors. We
+         expect to complete the Phase I clinical trial and enter Phase II clinical trial in the
+         first quarter of 2024. We acquired exclusive rights from ImmuneOnco
+         Biopharmaceuticals (Shanghai) Inc. to develop, manufacture and commercialize
+         IBC0966 in Greater China including mainland China, Hong Kong, Macau, and
+         Taiwan, as well as a single-digit percentage of interests in the overseas rights of
+         IBC0966. For more information, see "Business - Collaboration Agreement -
+         Collaboration Agreement With ImmuneOnco in Relation to the Development of
+         IBC0966" in this document.
+
+     � IBD0333: IBD0333 is a clinical stage, potential first-in-class, 4-1BB and CD24
+         bsAb that simultaneously stimulates both innate and adaptive immunity to achieve
+         strong synergistic effects with reduced hepatotoxicity. It is designed to bind to
+         4-1BB, a robust immune cell activator expressed by CD8+ T cells as well as DC
+         cells, monocytes, B cells, mast cells, NK cells and neutrophils, and CD24, a
+         romising target that plays a key role in tumor evasion in CD24-sialic-acid-binding
+         Ig-like lectin 10 ("Siglec-10") axis and thus is highly expressed in many cancer
+         types. We have obtained IND approvals from the FDA in June 2023 and from the
+         NMPA in July 2023. We plan to initiate a Phase I/II clinical study in the fourth
+         quarter of 2023 in patients with locally advanced/metastatic solid tumors, with the
+         Phase I study to be completed in the fourth quarter of 2024.
+
+     � IAN0982: IAN0982 is an internally developed innovative multi-specific innate
+         effector activator based on our AIMTM platform. We are developing IAN0982 as a
+         monotherapy or in combination with other therapeutics including chemotherapy,
+         immunotherapy, and cell therapy for the treatment of advanced solid tumors. Our
+         IND application for IAN0982 is expected to be submitted to the NMPA and the FDA
+         in the second quarter of 2024.
+
+     � ISH0988: ISH0988 is an internally developed innovative anti-inflammatory and
+         tissue-protective bifunctional fusion protein based on our AICTM platform. We are
+         developing ISH0988 as a monotherapy for the treatment of inflammatory bowel
+         disease. Our IND application for ISH0988 is expected to be submitted to the NMPA
+         and the FDA in the second quarter of 2024.
+
+     � ISH0613: ISH0613 is an internally developed innovative bifunctional antibody
+         fusion protein that simultaneously inhibits B cell activation and IFN secretion
+         based on our AICTM platform. We are developing ISH0613 as a monotherapy for the
+         treatment of systemic lupus erythematosus ("SLE"). Our IND application for
+         ISH0613 is expected to be submitted to the NMPA and the FDA in the second quarter
+         of 2024.
+
+                                         - 12 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                        SUMMARY
+
+OUR PLATFORMS
+
+AICTM Platform
+
+     Our AICTM Platform is a frontrunner in the field of immunocytokine development from
+multiple aspects, including cytokine selection and optimization, antibody selection and
+engineering, structural design and engineering, and production through customized cell line. It
+is a powerful research engine that includes not only a pool of intact immunoglobulin G ("IgG")
+antibodies and cytokines, but also functional antibody fragments and other types of immune
+system modulators. It is able to generate products ranging from immunocytokines to other
+bifunctional fusion proteins. Our clinical stage drug candidates IAP0971, IAE0972 and
+IBB0979, and preclinical stage drug candidates ISH0988 and ISH0613 were developed based
+on the AICTM Platform.
+
+     Our AICTM Platform successfully addresses technical difficulties for developing
+immunocytokines. These difficulties range from antibody and cytokine selection and
+optimization, to final drug production.
+
+     � Antibody/cytokine selection. Due to different spatial structure, different types of
+         cytokines behave largely different when fused with antibodies targeting different
+         antigens.
+
+     � Structural design. Dose ratio and activity between the selected antibody and
+         cytokine is needed to be balanced to achieve the desired mechanism of actions
+         ("MoA") and synergistic effects.
+
+     � Manufacturing capabilities. It is challenging for developing and manufacturing
+         immunocytokine molecules, because they are structurally complicated, especially
+         considering the degradation vulnerability of cytokines.
+
+     Core competencies of our AICTM Platform include MoA-based antibody-cytokine
+selection, biology-oriented structural design and protein engineering, and production through
+customized cell lines.
+
+     � MoA-based antibody-cytokine selection is the cornerstone to achieve desired
+         synergistic effects between antibody and cytokine. For example, selection of
+         anti-PD1 antibody and IL-15 cytokine for developing IAP0971 is grounded on their
+         shared action site on the same T/NK cells, leading to great cis-synergy. The
+         combination of anti-EGFR antibody and IL-10 is selected based on the potential
+         engager effects it can produce. Specifically, IAE0972 can engage CD8+ T cells
+         through IL-10 while simultaneously targeting tumor cells through the EGFR
+         antibody moiety.
+
+                                          - 13 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                             SUMMARY
+
+     � Structural design and protein engineering module enables us to structurally design
+         and modify our products to achieve improved safety and efficacy profile while
+         reducing manufacturing cost and enhancing product quality manageability.
+         Structural modifications that we are capable to perform through our AICTM Platform
+         include antibody and cytokine engineering, deglycosylation, linker/spacer design
+         and optimization, and tertiary structure alteration. Especially, developed through the
+         AICTM Platform, IAP0971 employs the natural pairing of IL-15/IL-15R, which
+         leads to more efficient dimerization and eliminates the formation of IL-15
+         homodimer and half antibody fragments. Additionally, a knobs-into-holes structure
+         is introduced in the Fc region of the anti-PD-1 antibody, reducing the mismatch of
+         two different heavy chains. These structural designs result in improved productivity
+         of IAP0971. Furthermore, IAP0971 is also modified by engineering the IL-15/IL-
+         15R heterodimers partially embedded into the "hinge" region in the anti-PD-1
+         antibody. Our drug candidate is the first of this structure to enter into clinical trial,
+         according to Frost & Sullivan. It can increase the stability of cytokine by "hiding"
+         a substantial portion of cytokine within antibody to protect it from hydrolysis by
+         proteases, as well as balance the activity of cytokine versus antibody by introducing
+         steric hindrance to the cytokine, and in the meantime retain the specificity and
+         affinity of cytokine to bind to its receptor and allow it to mediate immune responses.
+
+     � Production through customized cell lines is another important function performed by
+         our AICTM Platform. The cell lines we constructed for producing immunocytokines
+         and other bifunctional fusion proteins are obtained after undergoing multiple rounds
+         of metabolic and growth optimization and are of high expression capacity and
+         excellent purification yield. Coupled with unique cytokine-specific codon
+         optimization, stably expressed vehicles with optimized expression cassettes and our
+         high-throughput screening system, it is able to reach an expression level of 3-5g/L
+         and one-step affinity chromatography purity of 90%, which is at the top level among
+         rivals both at home and abroad, according to Frost & Sullivan.
+
+AEATM Platform
+
+     Our AEATM Platform is a genetically manipulated Chinese hamster ovary ("CHO") cell
+line with the FUT8 gene knocked-out from its genome to generate antibodies with enhanced
+ADCC and improved anti-tumor activities. Through this genome modification, the CHO cell
+line will not be able to catalyze the transfer of fucose residue from its donor to its target, and
+thus is not able to produce any antibody that carries fucose. Because absence of core fucose
+on the Fc region has been shown to increase the Fc region's binding affinity (up to 100 times)
+to its receptor FcRIIIa present on immune effector cells, fucose-negative antibodies are
+expected to have enhanced ADCC activities through better activating immune effector cells.
+
+                                    - 14 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                  SUMMARY
+
+     Comparing to other platforms that aim to achieve enhanced ADCC by removing fucose
+from antibodies, AEATM Platform is expected to produce antibodies with 0% of fucose, which
+rapidly, stably and thoroughly enhances the ADCC of antibodies and simplifies quality control
+of the products. Different genetic engineering has been adopted by different platforms.
+However, platforms seldom achieved 100% fucose removal. To date, our AEATM Platform and
+POTELLIGENT from Kyowa Kirin are the only two platforms that can achieve 100% fucose
+removal rate, according to Frost & Sullivan.
+
+     Feasibility and advantages of AEATM Platform have been demonstrated by IAH0968, the
+potential first complete fucose-removal anti-HER2-antibody in clinical stage developed
+through this platform. We have verified through glycoprotein detection and glycosylation
+quantification that IAH0968 does not contain any fucose. In addition, in vitro and in vivo tests
+showed that the affinity between IAH0968 and its Fc receptor was five to 20 times higher than
+unmodified or other ADCC enhanced anti-HER2 antibodies, resulting in greater enhanced
+ADCC activity and anti-tumor efficacy.
+
+AIMTM Platform
+
+     Our AIMTM Platform focuses on designing multi-functional biological products by
+engaging the innate immune system for cancer immunotherapy. It selects tumor associated
+antigen antibodies for cancer targeting, receptors agonist antibodies for innate effector
+activation, and cytokines and other TME factors for immune modulation to design multi-
+specific antibody fusion proteins, and evaluates them in terms of expression, target binding, in
+vitro and in vivo biological activities, as well as druggability. Currently, we have developed
+several categories of our proprietary AIMTM Platform that allow us to explore the combination
+of innate immunity stimulators with different types and numbers of targets, which provide us
+with abundant flexibility and diversity of various types of TME modulations for different
+clinical indications.
+
+     By targeting innate immunity stimulators instead of adaptive immunity stimulators, which
+is considered more cytotoxic and easily restrained by immune escape of tumors and the
+immunosuppressive TME, products developed from our AIMTM Platform are expected to
+achieve desired clinical safety and efficacy profiles. Our preclinical product IAN0982 was
+developed based on the AIMTM Platform.
+
+OUR STRENGTHS
+
+     We believe the following strengths have contributed to our success and differentiate us
+from our competitors:
+
+     � Internally developed pipeline of immunocytokines with first-in-class potentials;
+
+     � Differentiated products with first-in-class/best-in-class potentials developed
+         leveraging our deep understanding of immunology and antibody engineering;
+
+                                        - 15 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                       SUMMARY
+
+     � Proprietary platforms aimed to addressing bottlenecks of current immunotherapies
+         continue fueling the development of innovative and differentiated biological
+         products;
+
+     � Fully integrated, end-to-end, in-house drug development capabilities encompassing
+         all key biologic drug development functionalities;
+
+     � Seasoned management team of industry veterans with a proven record of success.
+
+OUR STRATEGIES
+
+     We aspire to be a leading global biopharmaceutical company with a focus on antibody and
+cytokine-based therapeutics. Our mission is to bring perceivable benefits and affordable
+medicine to patients both in China and globally. We intend to execute the following strategies
+to achieve our aspiration and mission:
+
+     � Focus on the development of immunocytokines to strengthen our leading position in
+         this drug development field;
+
+     � Continue advancing selected pipeline products with great clinical value and
+         commercial potential;
+
+     � Expanding our GMP-compliant manufacturing facility to enhance our production
+         capabilities and starting to assemble a seasoned commercial team;
+
+     � Actively seeking international collaboration opportunities to maximize value of our
+         assets and increase brand awareness on a global scale;
+
+     � Continue to focus on selecting and retaining top talents to fuel our innovation.
+
+RESEARCH AND DEVELOPMENT
+
+     We consistently devote resources to research and development to pave for long-term
+growth. We believe the diversification and expansion of our product pipeline through both
+in-house research and development and through external collaboration are critical to our
+long-term competitiveness and success. Our fully-integrated biological therapeutic platform
+encompasses all the key biologic drug development functionalities, enabling us to identify and
+address potential clinical and manufacturing needs early in the development process, so we can
+direct our efforts towards biologics with best potential. Our platform spans from the early
+phase of identifying demand, developing core technologies, managing clinical trials, to the
+manufacturing of products. We believe that our integrated capabilities give us the agility to
+formulate our innovation, registration, commercialization and product optimization strategies
+that can navigate us through rapidly changing market needs, enable us to improve pipeline
+viability and expedite product development cycle at lower cost. See "Business -- Research and
+Development -- R&D Platforms" in this document for details.
+
+                                          - 16 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                   SUMMARY
+
+     Our R&D team is lead by our executive Director, chief executive officer and chief
+scientific officer Dr. YIN Liusong. The executive Director and vice president overseeing our
+research and development is Ms. JIANG Xiaoling. Members of our experienced in-house R&D
+team come from a variety of medical backgrounds and has diverse and in-depth knowledge that
+is critical to strengthening our R&D capabilities. The functions of our integrated R&D team
+span drug discovery, in vitro evaluation, pharmacology and pharmacodynamics, protein
+engineering, process development and quality analysis.
+
+     Our research and development expenses amounted to RMB64.0 million and RMB53.2
+million and RMB14.6 million in 2021, 2022 and the three months ended March 31, 2023,
+respectively. During the Track Record Period, our research and development expenses
+consisted of (i) contract research expenses in relation to the engagement of CROs for
+preclinical and clinical research services; (ii) staff costs incurred by our research and
+development personnel; (iii) depreciation and amortization expenses in relation to our research
+and development machinery and equipment; (iv) material consumed in the course of our
+research and development activities; (v) application fees for our patent and IND applications,
+(vi) share-based compensation, and (vii) other research and development expenses.
+
+COLLABORATION ARRANGEMENT
+
+     In October 2019, we entered into a collaboration agreement (the "IBC0966 Agreement")
+with ImmuneOnco Biopharmaceuticals (Shanghai) Inc. ("ImmuneOnco") with respect to the
+technology transfer, development, manufacture and commercialization of IBC0966.
+ImmuneOnco is a biotechnology company primarily engaged in the development of immuno-
+oncology therapies and it is an Independent Third Party to us.
+
+     Pursuant to the IBC0966 Agreement, ImmuneOnco transferred to us (i) all of its rights
+and interests, including but not limited to development, production, regulatory filings and
+commercialization, in relation to IBC0966 in mainland China, Hong Kong, Macau and Taiwan
+(the "Territory"); (ii) all related patents, if applicable, registered in the Territory; (iii) all
+technical data and analytical methods relating to the development of IBC0966; and it also
+granted us a single-digit percentage of interest in the overseas rights of IBC0966. In exchange
+of our rights, we are obligated to pay RMB20.0 million assignment fee by installments. As of
+the Latest Practicable Date, the rights and interests of IBC0966 as well as the related
+documents and materials had been duly transferred to us and we had paid ImmuneOnco an
+assignment fee of RMB10.0 million. The remaining RMB10.0 million will be payable upon our
+obtainment of the marketing approval of IBC0966 from the NMPA. In addition, ImmuneOnco
+is entitled to single-digit percentage royalties based on the annual net sales of IBC0966 in the
+Territory until the earlier of the tenth year after the initial launch of IBC0966 or the expiration
+of the patents for IBC0966 molecule sequences. As of the Latest Practicable Date, we did not
+owe any royalties to ImmuneOnco.
+
+                                  - 17 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                      SUMMARY
+
+RELATIONSHIP WITH CROS AND CONTRACT SERVICE PROVIDERS
+
+     As is customary in the pharmaceutical industry, we use CROs and other contract service
+providers to support our preclinical studies and/or clinical trials under our close supervision
+and overall management. During the Track Record Period and up to the Latest Practicable Date,
+all the CROs and other contract service providers that we collaborate with were Independent
+Third Parties.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+     As of the Latest Practicable Date, we owned four issued patents and 102 patent
+applications, including 49 patent applications in China, one patent application in the U.S., and
+52 patent applications under the Patent Cooperation Treaty ("PCT"), relating to certain of our
+product candidates and technologies. As of the Latest Practicable Date, the material patent and
+patent applications for our Core Products included (i) one patent and six patent applications in
+China, one patent application in the U.S., and one patent application under PCT for IAP0971;
+(ii) five patent applications in China, and one patent application under PCT for IAE0972; and
+(iii) five patent applications in China, and two patent applications under PCT for IAH0968. In
+addition, we had five material patent applications under PCT for AIMTM Platform, four
+material patent applications in China for AICTM Platform, and one material patent application
+in China for AEATM Platform. For further details on our intellectual property rights, see
+"Business -- Intellectual Property" in this document.
+
+MANUFACTURING
+
+     We have established our own global GMP-compliant manufacturing facilities, which meet
+both clinical and commercial production demands to quantity, quality and dosage form of our
+product candidates. We currently have four active drug substance production lines up to a total
+capacity of 1,600L, including three 200L and one 1,000L disposable bioreactors. We have
+successfully completed over 30 production batches of immunocytokines, mAbs, bsAbs and
+fusion proteins, which fulfilled the needs for performing preclinical studies, pilot production
+of antibody drugs and conducting early phase clinical trials. We have completed the installation
+of a production line for 5,000L bioreactor capacity, which is currently under qualification.
+When putting into operation, it will enable us to manufacture our drug candidates for Phase III
+clinical trials and commercialization in-house. Our drug product facility includes one
+commercial-scale liquid injection filing production line and one commercial scale lyophlized
+powder production line, which enables us to prepare biological products into various dosage
+forms according to different needs.
+
+                                    - 18 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                           SUMMARY
+
+SUPPLIERS
+
+     During the Track Record Period, our purchases mainly include third-party contract
+services for preclinical evaluation and clinical trials of our product candidates, premise leases,
+equipment procurement and others. In 2021, 2022 and the three months ended March 31, 2023,
+our purchases from our five largest suppliers amounted to RMB56.6 million, RMB17.0 million
+and RMB7.1 million, respectively, representing 75.4%, 54.1% and 76.1% of our total
+purchases for the same periods, respectively. In 2021, 2022 and the three months ended March
+31, 2023, our purchases from our largest supplier amounted RMB34.4 million, RMB11.1
+million and RMB2.7 million, respectively, representing 45.9%, 35.2% and 29.2% of our total
+purchases for the same periods, respectively.
+
+     For more details, see "Business -- Suppliers and Raw Materials -- Suppliers" in this
+document.
+
+OUR CONTROLLING SHAREHOLDERS
+
+     As of the Latest Practicable Date, Mr. Zhang is able to exercise approximately 85.11%
+voting rights in our Company through Sunho Fortune, Innovalue Investments, Sunho Wisdom,
+No5XJR and Sunho Stellar. Immediately upon completion of the Share Subdivision and the
+[REDACTED] (assuming the [REDACTED] is not exercised), Mr. Zhang will be able to
+exercise approximately [REDACTED]% voting rights in our Company. Therefore, Mr. Zhang,
+Sunho Fortune, Innovalue Investments, Sunho Wisdom, No5XJR and Sunho Stellar will be
+considered as a group of Controlling Shareholders under the Listing Rules.
+
+     As of the Latest Practicable Date, apart from the interest in our Group, Mr. Zhang was the
+chairman of the board of directors of, and through his controlled entities, was entitled to
+exercise approximately 50.37% voting rights in, Nanjing Yoko, which is principally engaged
+in the R&D, manufacturing and sales of chemical drugs. There is a clear delineation of business
+between our Group and Nanjing Yoko and the business of Nanjing Yoko does not compete and
+is unlikely to compete, directly or indirectly, with the business of our Group. For details, see
+"Relationship with Our Controlling Shareholders" in this document.
+
+PRE-[REDACTED] INVESTORS
+
+     We received the Pre-[REDACTED] Investments from the Pre-[REDACTED] Investors
+which are venture capital funds with an investment focus on the biomedicine industry. Efung
+Capital is our sophisticated investor under Guidance Letter HKEX-GL92-18 issued by the
+Stock Exchange. Upon completion of the Share Subdivision and the [REDACTED] (assuming
+the [REDACTED] is not exercised), Efung Capital, through its affiliates, will hold
+approximately [REDACTED]% of the total issued Shares. For details, see "History,
+Reorganization and Corporate Structure -- Pre-[REDACTED] Investments" in this document.
+
+                               - 19 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                     SUMMARY
+
+SUMMARY HISTORICAL FINANCIAL INFORMATION
+
+Summary of Consolidated Statements of Profit or Loss and Other Comprehensive Income
+
+     The following table sets forth our consolidated statements of profit or loss and other
+comprehensive income for the periods indicated, derived from the Accountants' Report set out
+in Appendix I to this document.
+
+                                           Year Ended           Three Months Ended
+                                          December 31,               March 31,
+                                           2021        2022          2022               2023
+                                       RMB'000 RMB'000 RMB'000 RMB'000
+                                                               (unaudited)
+
+     Other income                         3,224       13,795       11,951              6,027
+     Other expenses                             -     (1,258)           -              -
+     Other gains and losses, net            150        97              33                 (4)
+     Research and development
+       expenses                         (64,033)   (53,171)       (12,007)     (14,561)
+     Administrative expenses             (5,799)      (5,558)      (1,566)             (2,139)
+     [REDACTED]                       [REDACTED] [REDACTED] [REDACTED] [REDACTED]
+     Finance costs                       (4,174)      (5,074)      (1,187)               (41)
+
+     Loss before tax                    (70,632)   (51,988)        (2,776)     (15,311)
+     Income tax expense                         -       -               -              -
+
+     Loss and total comprehensive
+       expense for the year/period      (70,632)   (51,988)        (2,776)     (15,311)
+
+     For more information, see "Financial Information -- Description of Major Components
+of Our Results of Operations" in this document.
+
+                                         - 20 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                       SUMMARY
+
+Selected Items of Our Consolidated Statements of Financial Position
+
+     The table below sets forth selected information from our consolidated statements of
+financial position as of the dates indicated:
+
+                                                                                       As of
+                                                       As of December 31,          March 31,
+                                                      2021               2022           2023
+                                                      RMB'000        RMB'000        RMB'000
+
+     Total non-current assets                        63,556            56,229          65,353
+     Total current assets                            21,399            14,632          13,542
+     Total assets                                    84,955            70,861          78,895
+
+     Total current liabilities                       58,096            66,154          76,449
+     Net current liabilities                         (36,697)         (51,522)       (62,907)
+     Total non-current liabilities                      158,409         6,206          19,029
+     Total liabilities                                  216,505        72,360          95,478
+     Net liabilities                                   (131,550)        (1,499)      (16,583)
+
+     Capital and reserves
+     Share capital                                     322                322            322
+     Treasury stock                                     (29)              (29)           (29)
+     Reserves                                          (131,843)        (1,792)      (16,876)
+
+     Total deficit                                     (131,550)        (1,499)      (16,583)
+
+     For more information, see "Financial Information -- Discussion of Certain Selected Items
+From the Consolidated Statements of Financial Position" in this document.
+
+                                              - 21 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                      SUMMARY
+
+Summary Consolidated Statements of Cash Flows
+
+     The following table sets forth our cash flows for the periods indicated:
+
+                                            Year Ended          Three Months Ended
+                                           December 31,              March 31,
+                                            2021        2022         2022               2023
+                                         RMB'000 RMB'000 RMB'000 RMB'000
+                                                               (unaudited)
+
+     Cash (used in)/generated from
+       operations before movements
+       in working capital                  (52,239) (36,171)        1,088           (12,854)
+     Changes in working capital              (413)      1,585      (10,432)            6,465
+
+     Net cash flows used in operating
+       activities                          (52,652) (34,586)        (9,344)            (6,389)
+     Net cash flows used in investing
+       activities                          (10,361)    (1,362)      (5,062)              (65)
+     Net cash flows generated from
+       financing activities                64,980       27,104      8,260              4,808
+
+     Net increase (decrease) in cash
+       and cash equivalents                 1,967      (8,844)      (6,146)            (1,646)
+     Cash and cash equivalents at
+       beginning of the year/period         8,698       10,665     10,665              1,821
+
+     Cash and cash equivalents at
+       end of the year/period              10,665       1,821       4,519                175
+
+     For details of our cash flows, see "Financial Information -- Liquidity and Capital
+Resources -- Cash Flows" in this document.
+
+     Our Directors are of the opinion that, taking into account the financial resources available
+to our Group, including cash and cash equivalents, the Pre-[REDACTED] Investments and the
+estimated net [REDACTED] from the [REDACTED], as well as cash burn rate, we have
+available sufficient working capital to cover at least 125% of the Group's costs, including
+general, administrative and operating costs (including any production costs), and research and
+development costs, for at least the next 12 months from the date of this document.
+
+     Our cash burn rate refers to the average monthly amount of net cash used in operating
+activities, capital expenditures, and other scheduled cash payment. Assuming an average cash
+burn rate going forward of [REDACTED] the level in 2022, taking into account the
+Pre-[REDACTED] Investment and scheduled payment of indebtedness, we estimate that our
+
+                                          - 22 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                     SUMMARY
+
+cash at bank and on hand as of March 31, 2023 will be able to maintain our financial viability
+for [REDACTED], or, if we also take into account the estimated net [REDACTED] (based on
+the [REDACTED] of HK$[REDACTED] per Share, being the mid-point of the indicative
+[REDACTED]), [REDACTED]. Our Directors and our management team will continue to
+monitor our working capital, cash flows, and our business development progress.
+
+KEY FINANCIAL RATIO
+
+     The table below sets forth the key financial ratio of our Group as of the dates indicated:
+
+                                                                                                     As of
+                                                   As of December 31,                                March 31,
+                                                    2021                2022                          2023
+
+     Current ratio(1)                                 0.4             0.2                              0.2
+
+      Note:
+
+      (1) Current ratio equals to current assets divided by current liabilities as of the same date.
+
+     For reasons for fluctuations of the above ratio, see "Financial Information -- Key
+Financial Ratio" in this document.
+
+SUMMARY OF MATERIAL RISK FACTORS
+
+     We believe that there are certain risks involved in our operations, many of which are
+beyond our control. These risks are set out in the section headed "Risk Factors" in this
+document. Some of the major risks we face include:
+
+     � Our business and financial prospects depend substantially on the success of our
+            clinical stage and preclinical stage drug candidates. In particular, among our product
+            candidates, IAP0971, IAE0972 and IBB0979 are with first-in-class potential, and
+            IAH0968 is with best-in-class potential. However, if we are unable to successfully
+            complete their clinical development, obtain their regulatory approvals and achieve
+            their commercialization, or if we experience significant delays in doing any of the
+            foregoing, our business will be materially harmed;
+
+     � We invest substantial resources in research and development in order to develop,
+            enhance or adapt to new technologies and methodologies, which may not be
+            successful attempts;
+
+                                          - 23 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                  SUMMARY
+
+     � We face intense competition and our competitors may discover, develop or
+         commercialize competing drugs faster or more successfully than we do, which may
+         adversely affect our ability to successfully commercialize our drug candidates;
+
+     � If we are unable to obtain and maintain adequate patent and other intellectual
+         property protection for our drug candidates throughout the selected markets in the
+         world, or if the scope of such intellectual property rights obtained is not sufficiently
+         broad, third parties could develop and commercialize drug candidates and
+         technologies similar or identical to ours and compete directly against us, and our
+         ability to successfully develop and commercialize any of our drug candidates or
+         technologies would be materially and adversely affected;
+
+     � We have limited experience in manufacturing therapeutic biologic products on a
+         large commercial scale, and our business could be materially and adversely affected
+         if we encounter problems in manufacturing our future drug products;
+
+     � If we are unable to build and manage sales network, or maintain sufficient sales and
+         marketing capabilities, either by ourselves or through third parties, we may not be
+         able to successfully create or increase market awareness of our products or sell our
+         products, which will materially affect our ability to generate product sales revenue;
+
+     � We have a limited operating history and have incurred net losses since inception. We
+         expect to continue to incur net losses for the foreseeable future and may not be able
+         to generate sufficient revenue to achieve or maintain profitability;
+
+     � We may need to obtain additional financing to fund our operations even if we
+         consummate the [REDACTED], and if we fail to obtain such financing, we may be
+         unable to complete the development and commercialization of our primary drug
+         candidates; and
+
+     � There has been no prior [REDACTED] market for our Shares and there can be no
+         assurance that an active market would develop, especially taking into account that
+         certain of our existing shareholders may be subject to a lock-up period, and the
+         [REDACTED] and [REDACTED] of our Shares may be volatile.
+
+For more details, see "Risk Factors" in this document.
+
+                                       - 24 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                           SUMMARY
+
+[REDACTED] STATISTICS
+
+     The [REDACTED] consists of:
+
+     � the [REDACTED] of initially [REDACTED], for [REDACTED] by the
+             [REDACTED] in Hong Kong, referred to in this document as the [REDACTED];
+             and
+
+     � the [REDACTED] of initially [REDACTED], outside the U.S. (including to
+             professional, institutional and other [REDACTED] within Hong Kong) in off shore
+             transactions in reliance on Regulation S and in the U.S. to QIBs in reliance on
+             Rule144A or another exemption from the registration requirements under the U.S.
+             Securities Act, referred to in this document as the [REDACTED].
+
+                                                           Based on the Based on the
+                                                           [REDACTED] of [REDACTED] of
+                                                         HK$[REDACTED] HK$[REDACTED]
+
+     [REDACTED] of our Shares(1)                          HK$[REDACTED] HK$[REDACTED]
+
+     Unaudited pro forma adjusted net tangible
+       assets per Share(2)                                HK$[REDACTED] HK$[REDACTED]
+
+      Notes:
+
+      * All statistics in this table are on the assumption that the [REDACTED] is not exercised.
+
+      (1) The calculation of [REDACTED] is based on [REDACTED] Shares expected to be in issue taking into
+             account of the Share Subdivision and immediately upon completion of the [REDACTED] (assuming the
+             [REDACTED] is not exercised).
+
+      (2) The unaudited pro forma adjusted net tangible assets per Share is calculated after making the
+             adjustments (after taking into consideration of Share Subdivision) referred to in "Financial Information
+             - Unaudited Pro Forma Statement of Adjusted Consolidated Net Tangible Assets" in this document.
+
+LOSS ESTIMATE FOR THE YEAR [ENDED] DECEMBER 31, 2023
+
+     [REDACTED]
+
+                                               - 25 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                              SUMMARY
+
+DIVIDENDS
+
+     No dividend has been declared or paid by entities comprising our Group. We currently
+expect to retain all future earnings for use in operation and expansion of our business, and do
+not have any dividend policy to declare or pay any dividends in the foreseeable future. Any
+declaration and payment by our Company as well as the amount of dividends will be subject
+to our constitutional documents and the Cayman Companies Act. The declaration and payment
+of any dividends in the future will be determined by our Board, in its discretion, and will
+depend on a number of factors, including our earnings, capital requirements, overall financial
+condition and contractual restrictions. Our Shareholders in a general meeting may approve any
+declaration of dividends, which must not exceed the amount recommended by our Board.
+Under the laws of the Cayman Islands, a Cayman Islands company may pay a dividend out of
+its profits or the credit standing to its share premium account, provided that immediately after
+the date on which the dividend is proposed to be paid, the company will be able to pay its debts
+as they fall due in the ordinary course of business.
+
+     For more information, see "Financial Information -- Dividends" in this document.
+
+USE OF [REDACTED]
+
+     We estimate that we will receive net [REDACTED] from the [REDACTED] of
+approximately HK$[REDACTED], after deducting [REDACTED] fees and other estimated
+expenses paid and payable by us in connection with the [REDACTED], assuming the
+[REDACTED] is not exercised and taking into account any additional discretionary
+[REDACTED] fee and assuming an [REDACTED] of HK$[REDACTED] per Share, being
+the mid-point of the indicative [REDACTED] of HK$[REDACTED] to HK$[REDACTED]
+per Share in this document. We currently intend to apply these net [REDACTED] for the
+following purposes:
+
+     � [65.4]%, or approximately HK$[REDACTED], will be primarily used for the
+         research and development of our Core Products, namely IAP0971, IAE0972 and
+         IAH0968;
+
+     � [21.4]%, or approximately HK$[REDACTED], will be primarily used for the
+         research and development of our other clinical pipeline product candidates, namely
+         IBB0979, IBC0966 and IBD0333;
+
+     � [3.2]%, or approximately HK$[REDACTED], will be used for preclinical and
+         planned clinical trials of our other preclinical pipeline product candidates; and
+
+     � [10.0]%, or approximately HK$[REDACTED], will be used for our general
+         corporate and working capital purposes.
+
+     For more details, see "Future Plans and Use of [REDACTED]" in this document.
+
+                                   - 26 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                                    SUMMARY
+
+[REDACTED]
+
+     [REDACTED] to be borne by us are estimated to be approximately HK$[REDACTED]
+(assuming an [REDACTED] of HK$[REDACTED] per Share, being the mid-point of the
+indicative [REDACTED] of HK$[REDACTED] to HK$[REDACTED] per Share),
+representing approximately [REDACTED]% of the estimated gross [REDACTED] from the
+[REDACTED] assuming no Shares are [REDACTED] pursuant to the [REDACTED]. The
+[REDACTED] consist of (i) [REDACTED] expenses, including [REDACTED] commission,
+of approximately HK$[REDACTED] (representing approximately [REDACTED]% of the
+estimated gross [REDACTED] from the [REDACTED]), and (ii) [REDACTED] expenses of
+approximately HK$[REDACTED], comprising (a) fees and expenses of our legal advisors and
+reporting accountants of approximately HK$[REDACTED], and (b) other fees and expenses
+of approximately HK$[REDACTED]. During the Track Record Period, the [REDACTED]
+charged to our consolidated statements of profit or loss were RMB[REDACTED]
+(HK$[REDACTED]) and the [REDACTED] costs, which was recognized as prepayments and
+are expected to be deducted from equity upon the [REDACTED], were RMB[REDACTED]
+(HK$[REDACTED]). After the Track Record Period, approximately HK$[REDACTED] is
+expected to be charged to our consolidated statements of profit or loss, and approximately
+HK$[REDACTED] is expected to be accounted for as a deduction from equity upon the
+[REDACTED]. We do not believe any of the above fees or expenses are material or are
+unusually high to our Group. The [REDACTED] above are the latest practicable estimate for
+reference only, and the actual amount may differ from this estimate. Our Directors do not
+expect such [REDACTED] to have a material adverse impact on our results of operations for
+the year [ended] December 31, 2023.
+
+RECENT DEVELOPMENTS AND NO MATERIAL ADVERSE CHANGE
+
+     Our recent developments of our drug candidates since the end of the Track Record Period
+and up to the Latest Practicable Date include:
+
+     1. In May 2023, we obtained the IND approval from the NMPA to conduct Phase I/II
+         trials using IAP0971 monotherapy or in combination with Bacillus Calmette-Guerin
+         ("BCG") for high-risk non-BCG responsive non-muscle invasive bladder cancer.
+
+     2. In May 2023, we dosed the first patient of the Phase II/III clinical trial to evaluate
+         the combination of IAH0968 with CapeOX as first-line therapy in HER2+ advanced
+         CRC.
+
+     3. In June 2023, we obtained the IND approval from the FDA for conducting Phase I/II
+         clinical trials of IBD0333 for locally advanced or metastatic solid tumors. In July
+         2023, we also obtained the IND approval from the NMPA for conducting Phase I/II
+         clinical trials of IBD0333 for locally advanced or metastatic solid tumors.
+
+     4. In July 2023, we enrolled the first patient in the Phase I/II clinical trial of IBB0979
+         for locally advanced or metastatic solid tumors.
+
+     5. In July 2023, we completed Phase I clinical trials of IAP0971 and IAE0972 for
+         locally advanced or metastatic solid tumors.
+
+                                        - 27 -
+THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED "WARNING" ON THE COVER OF THIS DOCUMENT
+
+                             SUMMARY
+
+     In addition, we completed the Pre-[REDACTED] Investments and raised RMB210
+million. For details, see "History, Reorganization and Corporate Structure --
+Pre-[REDACTED] Investments" in this document.
+
+     Our Directors confirm that, there has been no material adverse change in our business,
+financial condition and results of operations since March 31, 2023, being the latest balance
+sheet date of our consolidated financial statements as set out in the Accountants' Report
+included in Appendix I to this document, and up to the date of this document.
+
+REGULATORY DEVELOPMENTS ON OVERSEAS LISTING
+
+     On February 17, 2023, the CSRC published the new regulations for the filing-based
+administration for overseas securities offerings and listings by domestic companies, which
+came into effect on March 31, 2023. The newly released set of regulations consists of Overseas
+Listing Trial Measures and relevant guidelines. As advised by our PRC Legal Adviser, our
+proposed [REDACTED] and [REDACTED] falls within the scope of indirect overseas
+[REDACTED] of PRC domestic companies as provided for in the Overseas Listing Trial
+Measures, and therefore we will be subject to the filing procedures with the CSRC.
+
+                                      - 28 -
+

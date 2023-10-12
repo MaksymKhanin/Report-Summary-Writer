@@ -1,0 +1,329 @@
+This summary aims to give you an overview of the information contained in this
+Document. As it is a summary, it does not contain all the information that may beimportant to you. You should read the whole Document before you decide to invest in the[REDACTED ]. In particular, we are a specialist technology company seeking to
+[REDACTED ]on the Main Board of the Hong Kong Stock Exchange under Chapter 18C
+of the Listing Rules because we are unable to meet the requirements under Rule 8.05 (1),(2) or (3) of the Listing Rules. There are unique challenges, risks and uncertaintiesassociated with investing in companies such as ours. In addition, we have incurred netlosses since our inception, and we may incur net losses for the foreseeable future. We hadnegative net cash flow from operating activities during the Track Record Period. We didnot declare or pay any dividends during the Track Record Period and may not pay anydividends in the foreseeable future. Your investment decision should be made in light ofthese considerations.
+There are risks associated with any investment. Some of the particular risks in
+investing in the [REDACTED ]are set out in the section headed “Risk Factors” in this
+Document. You should read that section carefully in full before you decide to invest in the[REDACTED ].
+OUR MISSION
+Driving the future of mobility with chips.
+OVERVIEW
+We are a leading automotive-grade computing SoC and SoC-based intelligent vehicle
+solution provider. SoC is an integrated circuit that integrates key electronic componentsincluding central processing units, memories, I/O interfaces and others. We started with theHuashan Series high-computing power SoCs for autonomous driving and recently introducedthe Wudang Series cross-domain SoCs to address more diverse and sophisticated demands foradvanced functionalities of intelligent vehicles. Our proprietary automotive-grade products andtechnologies empower intelligent vehicles with mission-critical capabilities, such asautonomous driving, smart cockpit, advanced imaging and interconnection. We offer full-stackautonomous driving capabilities to meet broad customer needs through SoCs and SoC-basedsolutions, powered by our in-house developed IP cores, algorithms and support software. Interms of shipment of automotive-grade high-computing power SoCs in 2022, we are the thirdlargest provider globally, according to Frost & Sullivan.
+As autonomous driving systems become increasingly complex, automotive OEMs tend to
+strategically adopt and stick with a limited number of technology platforms for vehicle modelsat the same automation level across product lines or brands for efficiency and avoidance ofhigh switching costs, resulting in automotive OEMs and Tier 1 suppliers forming long-termanchored partnerships with selected top-tier autonomous driving SoC providers. Currently,SUMMARY
+–1–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.substantially all intelligent vehicles are at automation levels up to L3, both in China and
+globally, which is expected to remain so in the next few years, according to Frost & Sullivan.We strategically prioritize L2 to L3 products at this stage, recognizing that product-market fitis crucial for commercial success. Based on our outstanding products and customerrecognition:
+ We had design wins for 15 vehicle models with ten automotive OEMs and Tier 1
+suppliers, as of the Latest Practicable Date.
+ We started mass-production of Huashan A1000/A1000L SoCs in 2022, and our
+flagship A1000 Series SoCs had a total shipment of over 25,000 as of December 31,2022.
+ We announced our Wudang Series cross-domain SoCs in April 2023, the first in the
+industry to integrate autonomous driving, smart cockpit, body control and othercomputational domains, according to Frost & Sullivan.
+ Our customer base grew from 33 as of December 31, 2020, to 45 as of December 31,
+2021, and further to 89 as of December 31, 2022. We had partnered with over 30automotive OEMs and Tier 1 suppliers such as FAW Group, Dongfeng, JAC,HYCAN, ECARX, Baidu, Bosch, ZF Group and Marelli as of the Latest PracticableDate.
+We had grown significantly during the Track Record Period. In 2020, 2021 and 2022, our
+revenue was RMB53.0 million, RMB60.5 million and RMB165.4 million, respectively. Withmass production of our SoCs and continued iteration and advancement of our solutions, we arewell-positioned to capture the vast market opportunities for strong growth in the foreseeablefuture.
+OUR OFFERINGS
+During the Track Record Period, we engaged in the sales of autonomous driving products
+and solutions and intelligent imaging solutions, both of which are designated SpecialistTechnology Products as defined under Chapter 18C of the Listing Rules. We have adopted atransaction-based model for our autonomous driving products and solutions and intelligentimaging solutions. Our primary focus lies in the design, development, and implementation ofintelligent vehicle SoC technology, as well as the provision of autonomous driving solutionsacross various automotive automation tiers. Capitalizing on our extensive knowledge andtechnical expertise in the realm of intelligent vehicle SoCs, especially autonomous drivingSoCs and related IPs, we have managed to commercialize our products and solutionseffectively. We offer a comprehensive suite of services, including IPs, chips, autonomousdriving solutions and V2X solutions. Our open platform allows for software and hardwaredecoupling, providing automakers the freedom to select from our diverse range of offerings andenabling swift local adaptation and implementation.SUMMARY
+–2–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.We focus on developing automotive-grade SoCs:
+Huashan Series
+ A1000 .We launched A1000 in June 2020 with mass-production in 2022. A1000
+offers 58 TOPs computing power on INT8. It is the first high-computing powerautonomous driving SoC with proprietary IP cores developed and launched in Chinaand the first SoC for L2+ and L3 with ASIL-B and AEC-Q100 Grade 2 certificationin China, according to Frost & Sullivan.
+ A1000L .A1000L was also launched in June 2020 and mass-produced in 2022,
+designed for L2 and L2+ autonomous driving and is ASIL-B and AEC-Q100 Grade2 certified. A1000L offers 16 TOPs computing power on INT8.
+ A1000 Pro .We launched A1000 Pro in April 2021 for L3 autonomous driving.
+A1000 Pro offers 106+ TOPs computing power on INT8. Being the first autonomousdriving SoC with over 100 TOPS computing power developed and launched inChina, it offers the highest computing power on INT8 among its peers in China,according to Frost & Sullivan.
+In addition, targeting L3 and beyond, we are in the process of developing A2000 with a
+designed computing power of 250+ TOPs, one of the highest in the world among automotive-grade SoCs, according to Frost & Sullivan.
+Wudang Series
+ C1200 .We announced C1200 in April 2023, a cross-domain SoC that integrates
+autonomous driving, smart cockpit and other computational functionalities,providing an innovative and cost-effective computing solution for intelligentvehicles.
+In addition to our proprietary SoCs, we also offer autonomous driving support software
+to enable customization by customers in developing and deploying their applications on theSoCs:
+Software
+ Operating System Support. Our self-developed drivers and operating systems for
+SoCs offer seamless compatibility with various applications in intelligent vehicles.
+ Hanhai ADSP Middleware. This platform assists customers in rapidly migrating
+and deploying applications, and is widely applicable to autonomous driving andV2X application scenarios.
+ Perception Algorithms. Our leading neural network visual perception algorithms
+fundamentally enhance image processing capabilities for autonomous driving.SUMMARY
+–3–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.We started offering autonomous driving solutions in 2020 and were one of the earliest in
+China that generated revenue from the sales of autonomous driving solutions, according toFrost & Sullivan.
+ We offer an integrated closed-loop autonomous driving solution pack, BEST Drive,
+comprising Drive Eye for L1 and L2 support, Drive Sensing for L2+ autonomousdriving, Drive Brain for L3 domain control and Drive Turing for next-generationcentral computing.
+ Our self-developed add-on adaptive safety system, Patronus, provides reliable
+adaptive safety support with innovative system design, offering cost-efficientsolutions for commercial vehicle OEMs and Tier 1 suppliers.
+ Our V2X edge computing solution, BEST Road, targets the emerging road-side
+autonomous driving solution market which has been rapidly developing along withthe growing prevalence of intelligent NEVs.
+Drawing from our proprietary IP algorithms accumulated in providing automotive-grade
+imaging solutions, we offer intelligent imaging solutions that empower a broad range ofdevices to facilitate intelligent perception and content enhancement through algorithms. Ourfull-stack offerings include embedding our proprietary IP algorithms into sensors and ISPchips. These components are compatible with most devices.
+OUR STRENGTHS
+We believe the following competitive strengths contribute to our success: Leadership in Intelligent Vehicle SoCs with Foremost Expertise Proprietary Critical Technology from Purpose-Driven R&D Customer-centric Product Portfolio A User-friendly Open Platform for Customization and Re-development Broad Partners and Customer Base across the Industry Value Chain A Team of Veterans Combining Cross-sector and Market Expertise
+OUR STRATEGIES
+We will focus on the following key strategies to achieve our mission: Continue to Develop Intelligent Vehicle SoCs for Broader In-vehicle Computational
+ScenariosSUMMARY
+–4–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT. Further Enhance Our Open Ecosystem
+ Further Develop and Commercialize Our Solutions and Technologies Extend Our Reach Globally
+RESEARCH AND DEVELOPMENT
+Our ability to develop new technologies, design new products and solutions, and enhance
+existing products and solutions is critical for maintaining our market position.
+Our R&D team consists of dedicated talents with profound industry expertise, focusing
+on developing and commercializing our products and solutions which help maintain ourtechnological advantages and market competitiveness. Each of our core R&D team membershas more than 15 years of experience in engineering, with domestic or overseas workingexperience in reputable technology companies, such as Bosch, OmniVision, Qualcomm andZTE.
+INTELLECTUAL PROPERTY RIGHTS
+Intellectual property rights are important to our business. Our future commercial success
+depends, in part, on our ability to obtain and maintain patents and other intellectual propertyrights and proprietary protections for commercially important technologies, inventions andknowhow related to our business, defend and enforce our patents, preserve the confidentialityof our trade secrets, and operate without infringing, misappropriating or otherwise violating theintellectual property rights of third parties. As confirmed by our Directors, during the TrackRecord Period and up to the Latest Practicable Date, we did not have any instances ofinfringement of third parties’ intellectual property rights.
+As of the Latest Practicable Date, we owned 28 registered patents in China and 58
+registered patents in the United States, and 125 patent applications in China and 59 patentapplications in the United States. As of the same date, we had two integrated circuit layoutdesign registrations, 58 software copyrights in China, two software copyrights in the UnitedStates and 141 registered trademarks globally. See “Business – Intellectual Property Rights”for details of our material intellectual property rights.
+We acquire patents through self-development. As of the Latest Practicable Date, we
+owned all of our patents as well as patent applications and had no co-own or co-sharearrangements of our patents and patent applications with third parties.SUMMARY
+–5–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.CUSTOMERS AND SUPPLIERS
+Our major customers are automotive OEMs and Tier 1 suppliers. Revenue generated from
+our largest customer for the years ended December 31, 2020, 2021 and 2022 accounted for47.7%, 40.7% and 43.5%, respectively, of our revenue during those periods. Revenuegenerated from our five largest customers for the years ended December 31, 2020, 2021 and2022 accounted for 88.5%, 77.7% and 75.4%, respectively, of our revenue during thoseperiods.
+Our major suppliers are tapeout and technical services, IP core and hardware components
+providers. Charges from our largest supplier for the years ended December 31, 2020, 2021 and2022 accounted for 24.3%, 28.7% and 18.1%, respectively, of our total purchase amount duringthose periods. Charges from our five largest suppliers for the years ended December 31, 2020,2021 and 2022 accounted for 77.6%, 68.2% and 50.9%, respectively, of our total purchaseamount during those periods.
+COMPETITIVE LANDSCAPE
+We mainly compete with three major types of autonomous driving SoC providers in the
+market: specific autonomous driving SoC providers, general chip providers and automotiveOEM self-developers. Among these competitors, specific autonomous driving SoC providershave a strong research focus on autonomous driving and possess comprehensive software andhardware development capabilities, allowing them to develop customized autonomous drivingSoC-based solutions for various automotive OEMs. General chip providers deliver chips thatare not solely for autonomous driving which include traditional MCU chips or other types ofchips for consumer goods.
+RISK FACTORS
+We are a specialist technology company seeking to [ REDACTED ] on the Main Board of
+the Stock Exchange under Chapter 18C of the Listing Rules. We believe there are certain risksand uncertainties involved in the investing in our [ REDACTED ], some of which are beyond
+our control. If any of such risks and uncertainties materializes, the market price of our Sharescould decline, and you may lose all or part of your investments. See “Risk Factors” for detailsof our risk factors, which we urge you to read in full before making an investment in ourShares. Some of the major risks we face include:
+ If we are unable to develop and introduce new products and solutions, our future
+business, results of operations, financial condition and competitive position wouldbe materially and adversely affected.
+ We have been and intend to continue investing significantly in R&D, which may
+adversely impact our profitability and operating cash flow and may not generate theresults we expect to achieve.SUMMARY
+–6–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT. We may not be able to obtain or maintain adequate intellectual property rights
+protection for our product and solution candidates, or the scope of such intellectualproperty rights protection may not be sufficiently broad.
+ We may become involved in lawsuits to protect or enforce our intellectual property,
+which could be expensive, time-consuming and unsuccessful. Our patent rightsrelating to our products and solutions could be found invalid or unenforceable ifbeing challenged in court or before the CNIPA intellectual property agencies in otherjurisdictions.
+ If third parties claim that we infringe upon their intellectual property rights, we may
+incur liabilities and financial penalties and may have to redesign or discontinueselling the products or solutions involved.
+ We have a limited track record in commercialization of our products and solutions. There can be no assurance that our efforts seeking design wins for our products and
+solutions will succeed.
+ There is no guarantee that the sales results of our products and solutions would meet
+our forecast even after we achieve design wins.
+ We may face supply chain risks and risks of interruption of requisite services,
+including, as a result of our reliance on a single or limited suppliers and vendors, forcertain components, equipment and services.
+ We depend on TSMC to manufacture our SoCs.
+PRE- [REDACTED ]INVESTMENTS
+Up to the Latest Practicable Date, we have conducted ten rounds of Pre-[ REDACTED ]
+Investments. See “History and Corporate Structure – Pre-[ REDACTED ] Investments” in this
+Document for further details.
+SUMMARY OF HISTORICAL FINANCIAL INFORMATION
+The following tables set forth summary financial data from our consolidated financial
+information for the Track Record Period, derived from the Accountant’s Report set out inAppendix I. The summary consolidated financial data set forth below should be read togetherwith the consolidated financial statements in this document, including the related notes. Ourconsolidated financial information was prepared in accordance with IFRS.SUMMARY
+–7–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Selected items from the Consolidated Statements of Comprehensive Income
+The following table sets forth a summary of our consolidated statements of
+comprehensive income for the years indicated:
+Year ended December 31,
+2020 2021 2022
+Amount%o f
+revenue Amount%o f
+revenue Amount%o f
+revenue
+(RMB in thousands, except for percentages)
+Revenue 53,021 100.0 60,504 100.0 165,442 100.0
+Cost of sales (40,987) (77.3) (38,632) (63.9) (116,811) (70.6)Gross profit 12,034 22.7 21,872 36.1 48,631 29.4
+Selling expenses (22,257) (42.0) (50,842) (84.0) (119,732) (72.4)General and
+administrative expenses (32,692) (61.7) (111,703) (184.6) (215,239) (130.1)
+Research and development
+expenses (254,607) (480.2) (595,380) (984.0) (764,075) (461.8)
+Net impairment losses on
+financial assets (276) (0.5) (1,844) (3.0) (8,484) (5.1)
+Other income 2,912 5.5 18,113 29.9 15,361 9.3Other gains/(losses), net 1,989 3.8 (2,876) (4.8) (9,283) (5.7)Operating loss (292,897) (552.4) (722,660) (1,194.4) (1,052,821) (636.4)
+Finance income/(costs),
+net 698 1.4 (1,945) (3.2) 13,934 8.5
+Share of net profit/(loss)
+of associates accountedfor using the equitymethod 236 0.4 (722) (1.2) (987) (0.6)
+Fair value change in
+financial instrumentsissued to investors (468,275) (883.2) (1,631,175) (2,696.0) (1,714,062) (1,036.1)
+Loss before income tax (760,238) (1,433.8) (2,356,502) (3,894.8) (2,753,936) (1,664.6)
+Income tax expense – – – – ––
+Loss for the year
+attributable to theequity holders of theCompany (760,238) (1,433.8) (2,356,502) (3,894.8) (2,753,936) (1,664.6)
+Non-IFRS Measure
+We define adjusted net loss (non-IFRS measure) as net loss for the year adjusted by
+adding back fair value change in financial instruments issued to investors and share-basedpayment expenses.SUMMARY
+–8–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.The following table reconciles our adjusted net loss for the years presented to the most
+directly comparable financial measures calculated and presented in accordance with IFRS,which is net loss for the year:
+Year ended December 31,
+2020 2021 2022
+(RMB in thousands, other than percentages)
+Amount%o f
+revenue Amount%o f
+revenue Amount%o f
+revenue
+Reconciliation of net loss
+to adjusted net loss
+Loss for the year (760,238) (1,433.8) (2,356,502) (3,894.8) (2,753,936) (1,664.6)Add:
+Fair value change in
+financial instrumentsissued to investors
+(1)468,275 883.2 1,631,175 2,696.0 1,714,062 1,036.1
+Share-based payment
+expenses(2)19,073 35.9 111,744 184.7 339,544 205.2
+Adjusted net loss(3)(272,890) (514.7) (613,583) (1,014.1) (700,330) (423.3)
+Notes:
+(1) Fair value change in financial instruments issued to investors represents (i) redeemable convertible
+preferred shares, (ii) warrants for purchase of ordinary shares, (iii) convertible notes, and (iv)commitment derivatives. Fair value changes in financial instruments issued to investors are not directlyrelated to our ability to generate revenue from our daily operations, and we do not expect to record anyfurther fair value changes in financial instruments issued to investors as (i) preferred shares liabilitieswill be redesignated from liabilities to equity as a result of the automatic conversion into ordinary sharesupon the [ REDACTED ]; (ii) convertible notes are expected to be converted to preferred shares
+liabilities before the [ REDACTED ]; (iii) warrant liabilities are expected to be settled before the
+[REDACTED ]; and (iv) commitment derivatives are expected to be converted to preferred shares
+liabilities before the [ REDACTED ].
+(2) Share based payment expenses mainly represent the non-cash employee benefit expenses incurred in
+connection with our award to key employees. Such expenses in any specific period are not expected toresult in future cash payments and are not indicative of our core operating results.
+(3) A non-IFRS measure.
+To supplement our consolidated financial statements, we also use adjusted net loss as
+additional financial measure, which is not required by, or presented in accordance with IFRS.We believe this non-IFRS measure facilitates comparisons of operating performance fromperiod to period and company to company by eliminating potential impacts of certain items. Webelieve this measure provides useful information to investors and others in understanding andevaluating our consolidated results of operations in the same manner as they help ourmanagement. However, our presentation of adjusted net loss may not be comparable tosimilarly titled measures presented by other companies. The use of this non-IFRS measure asan analytical tool has limitations, and you should not consider it in isolation from, or as asubstitute for an analysis of, our results of operations or financial condition as reported underIFRS.SUMMARY
+–9–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Selected items from the Consolidated Statements of Financial Position
+The following table sets forth the selected items of our current assets and current
+liabilities as of the dates indicated:
+As of December 31,
+2020 2021 2022
+(RMB in thousands)
+Current assets
+Financial assets at fair value through
+profit or loss – – 706,462
+Cash and cash equivalents 243,888 1,553,419 982,229Total current assets 298,504 1,691,143 2,021,163
+Current liabilities
+Trade payables 11,568 13,083 69,907Other payables and accruals 47,836 96,772 120,221Total current liabilities 77,754 184,088 333,939
+Net current assets 220,750 1,507,055 1,687,224
+Total non-current assets 41,575 72,841 131,722
+Non-current liabilities
+Financial instruments issued to
+investors 1,588,899 5,195,383 8,279,244
+Total non-current liabilities 1,648,046 5,242,234 8,325,124
+Net non-current assets (1,606,471) (5,169,393) (8,193,402)SUMMARY
+–1 0–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Selected items from the Consolidated Statements of Cash Flows
+The following table sets forth selected items of our cash flows for the years indicated:
+Year ended December 31,
+2020 2021 2022
+(RMB in thousands)
+Operating loss before changes in
+working capital (261,612) (593,390) (629,299)
+Working capital changes 13,483 (45,925) (125,370)Net cash used in operating activities (248,129) (639,315) (754,669)
+Net cash used in investing activities (14,142) (31,817) (732,796)
+Net cash generated from financing
+activities 239,424 2,000,866 804,175
+Net (decrease)/increase in cash and
+cash equivalents (22,847) 1,329,734 (683,290)
+Cash and cash equivalents at beginning
+of the year 275,387 243,888 1,553,419
+Exchange (losses)/gains on cash and
+cash equivalents (8,652) (20,203) 112,100
+Cash and cash equivalents at end of
+the year 243,888 1,553,419 982,229
+Our cash burn rate refers to the average monthly (i) net cash used in operating activities,
+(ii) capital expenditures and (iii) lease payments. Our historical cash burn rate was RMB21.9million, RMB56.6 million and RMB70.1 million in 2020, 2021 and 2022, respectively, mainlyrepresenting our investment in R&D activities. We had cash and cash equivalents and financialassets at fair value through profit or loss of RMB1,688.7 million as of December 31, 2022. Weestimate that we will receive net [ REDACTED ] of approximately HK$[ REDACTED ] after
+deducting the [ REDACTED ] fees and expenses payable by us in the [ REDACTED ], assuming
+no [REDACTED ] is exercised and assuming an [ REDACTED ] of HK$[ REDACTED ] per
+[REDACTED ], being the mid-point of the indicative [ REDACTED ] in this Document.
+Assuming that the average cash burn rate going forward will be similar to the cash burn ratelevel in 2022, we estimate that our cash and cash equivalents as of December 31, 2022 will beable to maintain our financial viability for 24 months or, if we take into account [10]% of theestimated net [ REDACTED ] from the [ REDACTED ] (namely, the portion allocated for our
+working capital and other general corporate purposes), [ REDACTED ] months or, if we also
+take into account the estimated net [ REDACTED ] from the [ REDACTED ], [REDACTED ]
+months. We will continue to monitor our cash flows from operations closely and expect to raiseour next round of financing, if needed, with a minimum buffer of 12 months.
+Going forward, we expect to incur increasing costs and expenses, primarily for
+procurement of materials for the mass production of SoCs as well as investments in researchand development activities. This will lead to an increase in inventory and trade and notesreceivables in turn. Such expenditure is expected to be generally in line with our businessgrowth in the future,SUMMARY
+–1 1–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.KEY FINANCIAL RATIOS
+The following table sets forth certain of our key financial ratios as of the dates indicated,
+or for the years indicated:
+As of December 31,
+2020 2021 2022
+Gross profit margin (%)(1)22.7 36.1 29.4
+Current ratio(2)3.8 9.2 6.1
+Quick ratio(3)3.8 9.2 5.8
+Cash ratio(4)3.1 8.4 5.1
+(1) Gross profit margin is calculated by dividing gross profit by our revenue.
+(2) Current ratio is calculated by dividing current assets by current liabilities as of the date indicated.(3) Quick ratio is calculated by dividing current assets less inventories by current liabilities as of the date
+indicated.
+(4) Cash ratio is calculated by dividing the sum of cash and cash equivalents and financial assets at fair
+value through profit or loss by the total current liabilities as of the date indicated.
+APPLICATION FOR [REDACTED ]ON THE STOCK EXCHANGE
+We have applied to the Listing Committee for the granting of the [ REDACTED ] of, and
+permission to deal in, the Shares in issue and to be issued pursuant to (i) the [ REDACTED ],
+(ii) the exercise of the [ REDACTED ] and (iii) the Pre-[ REDACTED ] Share Plan on the basis
+that, among other things, we satisfy the requirements under Rule 18C.03 of the Listing Rulesas a Pre-Commercial Company (as defined in the Listing Rules) with reference to our expectedmarket capitalization at the time of [ REDACTED ], which, based on the [ REDACTED ],
+exceeds HK$10 billion.
+[REDACTED ]
+The statistics in the following table are based on the assumptions that the [ REDACTED ]
+has been completed and [ REDACTED ] Shares are issued pursuant to the [ REDACTED ].
+Based on an
+[REDACTED ]of
+HK$ [REDACTED ]
+per ShareBased on an
+[REDACTED ]of
+HK$ [REDACTED ]
+per Share
+Market capitalization of our
+Shares
+(1)HK$[ REDACTED ] HK$[ REDACTED ]
+Unaudited [ REDACTED ] adjusted
+consolidated net tangible assetsper Share
+(2)HK$[ REDACTED ] HK$[ REDACTED ]
+Notes:
+(1) The calculation of market capitalization is based on [ REDACTED ] Shares expected to be in issue
+immediately upon completion of the [ REDACTED ] (assuming that the [ REDACTED ]i sn o t
+exercised).
+(2) The unaudited [ REDACTED ] adjusted net tangible assets per Share as of December 31, 2022 is
+calculated after making the adjustments referred to in “Appendix II – Unaudited [ REDACTED ]
+Financial Information.”SUMMARY
+–1 2–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.[REDACTED ]EXPENSES
+The [ REDACTED ] expenses represent professional fees, [ REDACTED ], and other fees
+incurred in connection with the [ REDACTED ]. We estimate that our [ REDACTED ] expenses,
+including [ REDACTED ] for the [ REDACTED ], will be approximately HK$[ REDACTED ]
+(including (i) [ REDACTED ] of approximately HK$[ REDACTED ], and (ii)
+non-[ REDACTED ] related expenses of approximately HK$[ REDACTED ], which consist of
+fees and expenses of legal advisors and Reporting Accountant approximatelyHK$[ REDACTED ] and other fees and expenses of approximately HK$[ REDACTED ]),
+representing approximately [ REDACTED ]% of the gross [ REDACTED ] from the
+[REDACTED ], (assuming an [ REDACTED ] of HK$[ REDACTED ] per [ REDACTED ]
+(being the mid-point of the indicative [ REDACTED ]) and no exercise of the [ REDACTED ]).
+Among the total [ REDACTED ] expenses, approximately HK$[ REDACTED ] is directly
+attributable to the issue of our [ REDACTED ] to the public and will be deducted from equity,
+approximately HK$[3.9] million has been expensed during the Track Record Period, and theremaining amount of approximately HK$[ REDACTED ] is expected to be expensed upon the
+[REDACTED ].
+FUTURE PLANS AND USE OF [REDACTED ]
+We estimate the net [ REDACTED ]o ft h e[ REDACTED ] which we will receive,
+assuming an [ REDACTED ] of HK$[ REDACTED ] per [ REDACTED ] (being the mid-end of
+the [REDACTED ] stated in this Document), will be approximately HK$[ REDACTED ], after
+deduction of [ REDACTED ] and estimated expenses payable by us in connection with the
+[REDACTED ] and assuming the [ REDACTED ] is not exercised. We intend to use the net
+[REDACTED ]o ft h e[
+REDACTED ] for the following purposes:
+ Approximately [80.0]% or HK$[ REDACTED ] will be used for our research and
+development over the next three years with the detailed breakdown of the proceedsto be allocated as follows:
+ Approximately [30.0]% or HK$[ REDACTED ] will be used for the R&D team
+to develop automotive-grade intelligent vehicle SoCs.
+ Approximately [25.0]% or HK$[ REDACTED ] will be used for the
+development and upgrade of our intelligent vehicle software platform.
+ Approximately [20.0]% or HK$[ REDACTED ] will be used to procure
+materials, tape-out services and software for R&D of intelligent vehicle SoCsand automotive-grade IP cores.
+ Approximately [5.0]% or HK$[ REDACTED ] will be used for the development
+of autonomous driving solutions, such as V2X edge computing solution and theadd-on adaptive safety system Patronus.
+ Approximately [10.0]% or HK$[ REDACTED ] will be used for improvement of our
+commercialization capability.SUMMARY
+–1 3–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT. Approximately [10.0]% or HK$[ REDACTED ] will be used for working capital and
+general corporate purposes, in particular for procuring inventories for massproduction of our SoCs.
+For more details, see “Future Plans and Use of [ REDACTED ].”
+DIVIDEND AND DIVIDEND POLICY
+We did not declare or distribute any dividend to our Shareholders during the Track Record
+Period. However, we may distribute dividends in the future by way of cash or by other meansthat we consider appropriate. Pursuant to our Articles of Association, our Board may declaredividends in the future after taking into account our results of operations, financial condition,cash requirements and availability and other factors as it may deem relevant at such time. Asadvised by our Cayman legal advisors, we are a holding company incorporated under the lawsof the Cayman Islands, pursuant to which, the financial position of accumulated losses does notprohibit us from declaring and paying dividends to our Shareholders, as dividends may still bedeclared and paid out of our share premium account notwithstanding our profitability, providedthat our Company satisfies the solvency test set out in the Cayman Companies Act.
+RECENT DEVELOPMENT
+We announced our Wudang Series cross-domain SoCs in April 2023, the first in the
+industry to integrate autonomous driving, smart cockpit, body control and other computationaldomains, according to Frost & Sullivan. In March 2023, we announced cooperation with JICA,an affiliate of ECARX, to install our A1000 SoC on Geely’s vehicles. In April 2023, we weredesignated as Baidu’s preferred domestic intelligent vehicle SoC partner and will jointlydevelop autonomous driving products integrating hardware and software based on HuashanA1000 Series SoCs. As of the Latest Practicable Date, we had earned design wins for massproduction of SoC products for 15 vehicle models with 10 automotive OEMs and Tier 1suppliers, among which we had collaborated with Geely, Dongfeng, HYCAN, FAW Group,Baolong and a wide range of other automotive OEMs for factory-installation of our A1000 SoCon their vehicle models.
+Our Directors confirm that there has been no material adverse change in our financial or
+trading position, indebtedness, mortgage, contingent liabilities, guarantees or prospects sinceDecember 31, 2022, being the end date of the periods reported in the Accountant’s Report setout in Appendix I, and there is no event since December 31, 2022 that would materially affectthe information shown in the Accountant’s Report set out in Appendix I.SUMMARY
+–1 4–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION
+MUST BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.

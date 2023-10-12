@@ -1,0 +1,699 @@
+This summary aims to give you an overview of the information contained in this
+Document. As this is a summary, it does not contain all the information that may beimportant to you. You should read the entire document before you decide to[REDACTED ]in the [REDACTED ].
+There are risks associated with any [REDACTED ]. Some of the particular risks in
+[REDACTED ]in the [REDACTED ]are set out in “Risk Factors” of this document. In
+particular, we are a biotechnology company seeking to [REDACTED ]on the Main Board
+of the Stock Exchange under Chapter 18A of the Listing Rules on the basis that we areunable to meet the requirements under Rules 8.05(1), (2) and (3) of the Listing Rules. Youshould read that section carefully before you decide to [REDACTED ]in the
+[REDACTED ].
+OVERVIEW
+We are a Singapore-headquartered ribonucleic acid (“ RNA ”) technology company that is
+making diagnostic solutions for the early detection of diseases accessible on a global scale. Weare a pioneer and leader in developing and commercializing accurate, non-invasive andaffordable blood-based microRNA (“ miRNA ”) test kits for the early detection of cancer and
+other diseases. According to Frost & Sullivan, we are one of the few companies globally thathave obtained regulatory approval for in vitro diagnostic (“ IVD ”) product in the molecular
+cancer screening industry*, and we are also the world’s first and only company that hasobtained regulatory approval for IVD products of molecular gastric cancer screening.
+With the motto “To Know. To Act” in mind, we aim to become a leading RNA centric
+multi-omics technology company that provides accurate, accessible, and actionable diagnosticsolutions to address critical unmet clinical needs across the care continuum, with a focus oncancer early detection, risk stratification of individuals as well as precision medicine. Ourmission is to save lives and reduce socio-economic burden of cancer through development andcommercialization of innovative cancer early detection tests.
+Our Company was founded in 2014 by our co-founders, Dr. TOO Heng Phon, Dr. ZHOU
+Lihan and Dr. ZOU Ruiyang, who have achieved outstanding academic record with extensiveresearch experience in the field of miRNA-based molecular detection. They pioneered theinvention of miRNA polymerase chain reaction (“ PCR ”) technology with high sensitivity,
+specificity and reproducibility and proved the scientific and clinical significance of applyingsuch technologies to the screening and early detection of various diseases. Our co-foundersestablished Singapore’s first PCR laboratory in early 2000 for RNA diagnostics incollaboration with other research institutes. They subsequently established a world leadingmiRNA candidate discovery laboratory in Singapore in 2012, with a daily throughput of 0.2million PCR reactions, which was one of the miRNA candidate discovery laboratories with thehighest throughput in the world at that time, according to Frost & Sullivan.
+Under the leadership of our co-founders, we have developed two business segments,
+namely (a) Early Detection and Precision Multi-omics segment, under which we offer variousdisease early detection products (including our Core Product GASTROClear
+TM) and services,
+multi-omics candidate discovery and clinical genomic testing, and (b) Infectious Diseasessegment.
+* Cancer screening refers to the examination or testing of individuals who have no apparent symptoms of cancer
+to identify any potential signs or early stages of such disease.SUMMARY
+–1–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Early Detection and Precision Multi-omics Business Segment
+Early Detection Business Sub-segment
+Within Early Detection business sub-segment, our primary focus is on developing,
+manufacturing and commercializing miRNA early detection test kit products that are accessibleto the mass market. These test kit products take the form of simple blood tests performed onPCR instruments to detect miRNA biomarkers associated with various diseases. The graphbelow provides an overview of our product and product candidates under Early Detectionplatform:
+Product Indication Sample Technology RightsEarly-Stage 
+Development1Late-Stage Development
+2 Registrational Trial Approval Commercialization
+CancerGASTROClearTM
+(Core Product)Gastric Cancer Blood miRNA (qPCR) Global
+LUNGClearTMLung Cancer Blood miRNA (qPCR) Global
+CRC-1 Colorectal Cancer Blood miRNA (qPCR) Global
+LV-1 Liver Cancer Blood miRNA (qPCR) Global
+BC-1 Breast Cancer Blood miRNA (qPCR) Global
+CADENCE Multi-Cancer (9) BloodmiRNA (qPCR) 
+& methylation 
+(NGS)Global
+Cardio-vascular
+PHinderPulmonary
+Hypertension (PH)Blood miRNA (qPCR) Global3
+HF-1 Heart Failure Blood miRNA (qPCR) GlobalPRC
+LDT LaunchedJapanSingapore (2019)
+EU CE-IVD (2022)U.S.
+Notes:
+1. Early stage – refers to the development stage where a product candidate is undergoing one or more of the
+following: technical feasibility studies, product optimization and finalization of product prototype, as well aslimited pilot production.
+2. Late stage – refers to the development stage where a product candidate is undergoing one or more of the
+following: efficacy testing, mass production and completion of a proof-of-concept clinical validation study,and is ready for registrational trials.
+3. We are partnering with Actelion Pharmaceuticals in developing PHinder. We plan to discuss with Actelion
+Pharmaceuticals on the commercialization arrangement of PHinder at a later stage of the product development.For details of our collaboration with Actelion Pharmaceuticals, please see “– Major Research Collaborationsand Licensing Arrangements – Collaboration on Pulmonary Hypertension”.SUMMARY
+–2–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Our Core Product
+GASTROClearTM, our Core Product, is the first and only approved molecular IVD
+product for gastric cancer screening globally, according to Frost & Sullivan. GASTROClearTM
+is a blood-based miRNA detection panel consisting of 12 miRNA biomarkers for gastric cancerscreening and early detection. GASTROClear
+TMhas been successfully commercialized after
+obtaining Class C IVD certificate from the HSA in September 2019, and has obtained the CEMark in November 2017. More recently in May 2023, GASTROClear
+TMobtained breakthrough
+device designation from the FDA, which makes us the first to obtain the breakthrough devicedesignation from the FDA for blood-based miRNA diagnostic test as well as for moleculardiagnostic test for gastric cancer. The FDA’s breakthrough device designation forGASTROClear
+TMsignifies its remarkable potential to deliver improved treatment or diagnosis
+for life-threatening or irreversibly debilitating diseases or conditions. This designation grantsGASTROClear
+TMthe advantage of an expedited review process by the FDA, potentially
+resulting in accelerated market access. Furthermore, our experience in developingGASTROClear
+TMhas been used as a valuable reference for the drafting of miRNA molecular
+detection industry standards, including the SS 656: 2020 Singapore standard, demonstrating itsoutstanding clinical performance.
+We believe that GASTROClear
+TMis a unique offering in the market that disrupts existing
+early gastric cancer screening paradigm. It is a non-invasive, cost effective, more accessibleand convenient option compared to traditional early screening technologies, with strongperformance. We completed a large-scale prospective clinical trial for GASTROClear
+TMwith
+5,282 subjects in Singapore, being one of the few largest prospective clinical trials globally forcancer screening and early detection that have been conducted, according to Frost & Sullivan.With the area under curve (“ AUC ”) value of 0.85, which significantly outperforms the existing
+gastric cancer screening biomarkers (with AUC of 0.63 to 0.65), we believe GASTROClear
+TM
+has shown comparable performance to gastro-endoscopy, which is currently the gold standardof gastric cancer early detection and diagnostics. The results from the prospective clinical trialof GASTROClear
+TMhave demonstrated a high overall sensitivity of 87.0%, and a remarkable
+sensitivity of 87.5% for stage I gastric cancers and 75.0% for early lesions less than 1 cm,respectively, which suggests a significant potential in ultra-early detection. GASTROClear
+TM
+showed a specificity of 68.4% in the clinically relevant trial population that included healthyaverage-risk individuals as well as individuals with atrophic gastritis and intestinal metaplasia.As such, GASTROClear
+TMdemonstrated a negative prediction value (“ NPV ”) of 99.5% and a
+positive prediction value (“ PPV ”) of 6.7%, which outperforms existing gastric cancer
+screening biomarkers, and is comparable to cancer screening tests applied in other majorcancers. GASTROClear
+TMis equipped with our mSMRT-qPCR technology and is capable of
+rapid detection of 13 samples per use, with the detection results being available within fourhours in a PCR laboratory.SUMMARY
+–3–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.We completed patient enrollment for the registrational clinical trial of GASTROClearTM
+in China in March 2023 with approximately 9,400 subjects enrolled, and it is the largest
+prospective clinical trial of molecular gastric cancer screening globally, according to Frost &Sullivan. We plan to submit a registration application to the NMPA by the fourth quarter of2023. In Japan, we have completed a clinical study in July 2022 to assess the applicability ofGASTROClear
+TMon the Japanese population and have also been in consultation with the
+PMDA to explore an IVD approval of GASTROClearTMin Japan. Subject to our
+communication with the PMDA, we may submit a registration application to the PMDA or, ifrequired by the PMDA, carry out additional clinical studies to generate further data as required.
+Other Early Detection Product Candidates
+We have developed a comprehensive early detection portfolio of blood miRNA-based test
+kit products targeting high incidence and mortality cancers as well as cardiovascular diseases.
+ LungClear
+TM–our lung cancer screening and early detection product candidate is
+a detection panel consisting of miRNA biomarkers discovered and verified in
+multi-center studies with a sample size of 1,688 subjects covering both Asian andCaucasian population. We have commercialized LungClear
+TMas a LDT service in
+Southeast Asia, China and Japan. According to Frost & Sullivan, LungClearTMis the
+first commercialized miRNA-based lung cancer early screening LDT serviceglobally. We also plan to develop LungClear
+TMas an IVD test kit product in these
+jurisdictions.
+ CRC-1 – our miRNA-based testing kit for the early detection of colorectal cancer
+has entered late stage of development and we are in the process of prototyping the
+miRNA biomarkers for the product. We intend to register the CRC-1 as a IVD testkit in the major global markets.
+ CADENCE – CADENCE is our multi-cancer testing kit for the early detection of up
+to nine different types of cancers in a single test. We have initiated a large-scale
+clinical research project for the development of CADENCE in collaboration withkey clinical experts and institutions in Singapore and overseas, through integratingand analyzing multi-omics biomarkers in miRNA and DNA of more than 20,000individuals.
+ PHinder – In addition to cancer detection test kits, we are partnering with Actelion
+Pharmaceuticals in developing PHinder, a miRNA-based testing kit for the early
+detection of pulmonary hypertension. The PHinder kit received the CE Mark in 2022and a clinical verification study is ongoing in collaboration with two nationalhospitals in Singapore.SUMMARY
+–4–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Precision Multi-omics Business Sub-segment
+Within Precision Multi-omics business sub-segment, we focus on providing complex,
+miRNA centric multi-omics testing solutions to bio-pharmaceutical companies, governmentorganizations, as well as academic and clinical institutions. In addition, we and our partnersalso collaborate to develop next generation, high complexity diagnostic applications todiscover novel biological associations in the form of biomarkers for various diseases, aidingtherapeutic candidate discovery. These activities enable us to stay competitive in the cancercare industry by supporting the development of a comprehensive portfolio of intellectualproperty and diagnostic solution offerings for our clinical customers as well as partners.
+ Multi-omics candidate discovery – comprising both joint-development and fee-for-
+service research projects with our partners. These projects are undertaken to
+discover novel biological insights for the development of diagnostic solutions anddiscovery of therapeutic candidates. We integrate additional omics data through ourstate-of-the-art ultra-high-throughout next-generation sequencing (“ NGS ”) systems
+and analyze these using our data science and machine learning, to provide acomprehensive, multi-dimension and integrated analysis of RNA, DNA, and proteinbiomarkers during normal cell functions and disease states.
+ Clinical multi-omics testing – where we provide testing services to our customers to
+analyze genetic and epi-genetic changes at DNA and RNA. In particular our testing
+services cover (i) hereditary risk stratification to assess hereditary cancer risks, aswell as other disease carrier genes; and (ii) selection of cancer therapy for patientsthrough the analysis of the somatic genomic abnormalities in the patient’s cells, inorder to plan and select a targeted therapy treatment aiming for a better treatmentoutcome.
+Precision Multi-omics is the core engine driving our R&D successes. The platform
+enables and complements our Early Detection platform by providing the development enginethrough which we derive new insights, which drives R&D activities and the development of ournext generation of disease early detection products. It also represents an extension of ourproduct and service offerings into adjacent and complementary business lines of hereditary riskstratification and therapy selection (i.e., assigning risk levels to patients and using the patient’srisk status to direct and improve care). This diversifies our revenue streams as well ascontributes to our efforts to provide end-to-end diagnostic solutions across the care continuum,especially in the under-served Southeast Asian market.SUMMARY
+–5–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Infectious Diseases Business Segment
+Our Early Detection and Precision Multi-omics business segment is supplemented by our
+Infectious Diseases business segment, where we have developed, manufactured and deployedthe Fortitude
+TMCOVID-19 diagnostic kits to approximately 35 countries during the pandemic.
+The FortitudeTMKit is one of the first approved COVID-19 RT-qPCR test kits globally,
+according to Frost & Sullivan. The success of FortitudeTMKit is a testament to our ability to
+develop and commercialize new products at scale within a limited time span. We believe thatour success in responding to the call by governments to address the COVID-19 pandemic withlarge-scale manufacture and commercialization of Fortitude
+TMKits has positioned us as a
+leading diagnostic test provider in Southeast Asia. Further, the collaborations with hospitalsand research institution to develop the Fortitude
+TMKit has been a valuable marketing tool. It
+has also expanded our exposure and access to a wider market audience who have becomecognizant of our products, technology and capabilities.
+OUR COMPETITIVE STRENGTHS
+We believe the following strengths have contributed to our success and differentiated us
+from our competitors.
+ A global leader in molecular cancer early detection; A robust early disease detection portfolio with huge market potential to address
+significant unmet clinical demand;
+ Leading proprietary mSMRT-qPCR technology platform achieving outstanding
+product performance and supporting synergistic business platforms;
+ Comprehensive end-to-end and fully integrated capabilities; and Multidisciplinary and visionary management team with diverse experience and
+expertise, supported by renowned advisory board and investors.
+OUR STRATEGIES
+We plan to execute the following strategies to achieve our mission and drive our future
+growth:
+ Promote molecular cancer screening and increase penetration of GASTROClear
+TM
+in key markets;
+ Expand our R&D capabilities and platform to advance our pipeline products; Improve profitability, scalability, and speed to market by integrating our
+“end-to-end” capabilities; andSUMMARY
+–6–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT. Develop a precision multi-omics testing “super-app” for Southeast Asia.
+MARKET OPPORTUNITY AND COMPETITION
+The market in which we operate is characterized by rapid changes resulting from
+technological advances and scientific discoveries. In addition, it is subject to changes in theoverall healthcare industry in Southeast Asia, China, Japan, United States and the rest of theworld. While we believe that our proprietary technology, product development experience andresearch and development capabilities provide us with competitive advantages, we facepotential competition from various sources, including major international medical devicecompanies as well as Asian manufacturers that are also providing molecular diagnosticssolutions. For additional information, see “Risk Factors – Risks Relating to our Business.”
+We compete primarily on the basis of our products’ track record of reliable performance,
+our first-mover advantage in the gastric cancer screening and diagnostic market, brandrecognition among hospitals and physicians and the level of technical support and training weprovide to physicians. We believe that our continued success depends on our ability to (i)innovate and develop advanced technology; (ii) apply our technology across product lines; (iii)develop a diversified portfolio of disease screening and early detection products; (iv) maintainour efficient operating model; (v) attract and retain skilled personnel; (vi) maintain high qualitystandards; (vii) obtain and maintain regulatory approvals; and (viii) effectively market ourproducts.
+GASTROClear
+TM
+Gastric cancer is the fourth leading cause of cancer deaths in 2022 globally, and it is
+ranked the sixth in terms of global incidences among all cancers in 2022 with a total ofapproximately 1.1 million incidences globally, according to Frost & Sullivan. It is widelyaccepted that gastric cancer is one of the most preventable cancers, because screening ofasymptomatic individuals is capable of identifying precancerous adenoma that can be removedthrough surgery before they become cancerous. Patients who are diagnosed early in theprogression of the disease are more likely to have a complete recovery and incur less medicalexpenses.
+According to Frost & Sullivan, the market size of gastric cancer screening in the selected
+regions (namely China, Japan, Southeast Asia and the U.S.) increased from US$11.6 billion in2018 to US$14.6 billion in 2022. It is expected to increase to US$20.7 billion in 2027 andfurther to US$24.3 billion in 2032.SUMMARY
+–7–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.The table below sets forth major product and product candidates under clinical trial for
+gastric cancer screening. As of the Latest Practicable Date, GASTROClearTMis the only
+approved molecular IVD product for gastric cancer screening in the global market, and has thelargest market share in terms of revenue in 2022 in the gastric cancer screening market inSoutheast Asia.
+Company ProductTarget
+IndicationsTechnologyPrimary
+MarketBiomarkersSensitivity and
+SpecificityDescription Development Status
+MiRXESGASTRO
+ClearTMGastric
+cancerRT-qPCRSingapore,
+SEA, China,
+USA, Japan12 miRNA
+biomarkersSensitivity: 87.5%
+for stage I gastric
+cancers and
+75.0% for early
+lesions less than
+1 cm;
+Specificity: 68.4%IVD Approved by
+Singapore’s Health
+Sciences Authority in
+2019;
+IVD Under clinical trial in
+China
+FDA has designated
+GASTROClearTM as a
+“breakthrough device”
+CE Mark Approval as IVD
+GRAIL GalleriMulti-cancer
+screeningNGS USctDNA
+methylationSensitivity: 16.7%
+for stage I and
+66.7% for all
+stages; 
+Specificity: 99.5%IVD Under clinical trial
+FDA has designated
+Galleri as a “breakthrough
+device”.
+LDT launched in June
+2021
+Exact
+SciencesCancer
+SEEKMulti-cancer
+screeningNGS USctDNA
+methylation-IVD Under clinical trial
+FDA has designated
+CancerSEEK as a
+“breakthrough device”.GASTROClearTM is a blood-based 
+miRNA detection panel for gastric 
+cancer screening and early
+detection. GASTROClearTM is 
+equipped with our mSMRT-qPCR 
+technology and is capable of rapid 
+detection of 13 samples per use,
+with the detection results being 
+available within 4 hours
+Able to detect more than 50 types of 
+cancers, including gastric cancer, 
+through a single blood draw. It is 
+used in addition to and not to 
+replace other cancer screening
+tests. The market price is US$949.
+A liquid biopsy test is designed to 
+detect many cancers at earlier 
+stages of diseases, including 
+gastric cancer.
+Source: FDA, HSA, Peer Reviewed Medical Journal, Literature Research, Frost & Sullivan
+For more information on the market opportunities and competitive landscape of the
+gastric cancer screening market, see “Industry Overview – Overview of Global Cancer EarlyScreening Market – Gastric Cancer Screening Market”.
+OUR PLATFORM
+Under the leadership of our co-founders, we have built the core technologies for early
+disease detection leveraging our proprietary mSMRT-qPCR technology platform, which is anenhanced high-throughput RT-qPCR assay system. It enables us to conduct miRNA detectionwith high sensitivity and specificity and in a cost-efficient manner and serves as the backboneof our comprehensive product and service portfolio. Our proprietary miRNA technologyplatform enables us to further develop our capabilities in RNA-centric multi-omics analysis,data science and machine learning. We integrate and analyze biological data from diverseomics sources, including miRNA, DNA genome and proteome (proteins) to identify novelbiomarkers, gaining deeper insights into the biological processes underlying complex diseasessuch as cancer.SUMMARY
+–8–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Building upon our core competency in miRNA research and technologies, we have grown
+our business to establish a comprehensive diagnostic platform, covering the full carecontinuum, including cancer screening and early detection, precision multi-omics services andinfectious diseases prevention and solutions. We have developed two business segmentsnamely (i) Early Detection and Precision Multi-omics; and (ii) Infectious Diseases. Our EarlyDetection and Precision Multi-omics business segment provides products and servicescovering the entire cancer care continuum, including cancer early detection test kits, earlydetection lab services, multi-omics candidate discovery and clinical genomic testing services.Powered by our proprietary miRNA technologies, we have strategically established acomprehensive pipeline of early disease detection products and product candidates targetinghigh incidence and mortality cancers as well as cardiovascular diseases. As of the LatestPracticable Date, our extensive portfolio of early detection products and product candidatesconsists of two commercialized products and six product candidates at pre-clinical stage. OurInfectious Diseases business segment historically composed mostly of supplying reagents fornucleic acid testing for infectious diseases, including the testing of COVID-19. The graphbelow illustrates the relationships among our products and services, our business segments, andour underlying technology platform:
+miRNARNA centric multi-omics
+(DNA, mRNA, proteins)Data Science &
+Machine LearningPatented miRNA centrictechnology platform
+Infectious Diseases2 Synergistic
+Business Platforms
+Business segmentsProduct/services
+Cancer early
+detection
+test kits and
+Lab services Multi-Omics
+Candidate
+Discovery &
+Clinical Genomic
+TestingCOVID-19PCR testing
+One stop solution to our clinical customers and development partnersSupport and response to
+emerging disease
+Early DetectionPrecision
+Multi-omics 
+RESEARCH AND DEVELOPMENT
+We focus on developing innovative miRNA-based disease screening and diagnostic
+solutions with a particular focus on early detection of various types of cancers to enhance ourexisting pipeline of disease screening and early detection solutions and to develop newsolutions. We believe that our success, to a large extent, has depended and will continue todepend on our ability to develop new or improved screening and diagnostic products. Ourresearch and development capabilities are reflected in our portfolio of technologies andpatents. See “– Intellectual Property Rights.” With over ten years of dedicated research anddevelopment efforts, we have curated an extensive disease miRNA data, as well as developedour clinically validated miRNA detection and quantification technologies and risk assessmentalgorithms for our disease screening and diagnostic solutions. Our core product,GASTROClear
+TM, is the world’s first and only approved molecular IVD product for gastricSUMMARY
+–9–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.cancer screening, as well as the only miRNA assay featured in the article on cancer liquid
+biopsy published in Nature Biotechnology in 2019. Our risk assessment algorithm is able to
+process multiple parameters. Our industry-leading RNA extraction and processing technologyenables us or our customers to purify RNA from blood or tissue samples. It is tailored andoptimized to work with our primers, reagents and the overall testing process, which cannot beeasily replicated by our competitors. As of the Latest Practicable Date, we have built aportfolio of patents and patent applications globally to protect our proprietary technologies andknow-how.
+We are engaged in ongoing research and development activities to deliver products with
+superior clinical performance, to enhance the effectiveness, ease of use, safety and reliabilityof our products, and to expand the applications of our products as appropriate. As of the LatestPracticable Date, we had two commercialized products and six product candidates atpre-clinical stage.
+The time required from developing to commercializing a new product varies by product
+candidate and can be affected by various factors which may be beyond our control, such asresults of validation or clinical studies, government policies and regulatory approvals. Foradditional information, see “Risk Factors – Risks Relating to Our Business.” We incurredresearch and development expenses of US$7.9 million, US$18.5 million, US$4.0 million andUS$6.7 million in the years ended December 31, 2021 and 2022 and the four months endedApril 30, 2022 and 2023, respectively. For details, see “Business – Research andDevelopment.”
+MANUFACTURING
+We currently operate two state-of-the-art and Current Good Manufacturing Practices
+(“cGMP ”) compliant diagnostics manufacturing facilities in both Singapore and the PRC. For
+the four months ended April 30, 2023, our two existing manufacturing sites are capable oflarge-scale production capacity with aggregated production capacities of approximately 85,020miRNA tests. In particular, we have been upgrading our manufacturing facility in Singapore tobe an “Industry 4.0” manufacturing facility with smart manufacturing processes. This includesthe use of automation in the manufacturing lines and intelligent software which collects andanalyses data to improve decision making, including identifying potential supply bottlenecksand issues. Over the years, we have accumulated extensive expertise and know-how in themanufacturing of miRNA-based testing kits. We have formulated a comprehensive qualitycontrol system and a supply chain management system to maintain high production efficiencyand low costs as well as high reliability and consistency of our miRNA-based testing kits. Weexercise control over the whole manufacturing process from raw material monitoring, rigorousquality checks and final product delivery, thus enabling us to maintain cost-effectiveness. Fordetails, see “Business – Testing and Manufacturing Capacity – Manufacturing Facilities.”SUMMARY
+–1 0–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.SALES AND MARKETING
+Commercialization
+We have successfully commercialized GASTROClearTM, FortitudeTMand LungClearTM
+in different jurisdictions. GASTROClearTMhas been successfully commercialized after
+obtaining Class C IVD certificate from the HSA in September 2019, and has obtained the CEMark in November 2017. Fortitude
+TMKit has received HSA’s provisional authorization for
+clinical use in March 2020 and received the CE Mark in June 2020, and was commercializedsince then. Moreover, we have commercialized LungClear
+TMas a LDT service in Southeast
+Asia, China and Japan.
+Sales and Marketing Personnel
+We have 109 sales and marketing staff as of April 30, 2023 to provide customized support
+to our customers. We organize trainings for our newly joined sales and marketing personnelduring their first month of employment with us. Our trainings generally include backgroundintroduction to the hierarchy and strategies of our product development, as well as overviewscovering various topics including our commercial team, patents and intellectual property, lifesciences and products including GASTROClear
+TM, and FortitudeTMKit, all of which are
+designed to enable our employees to gain in-depth understanding of the features andtechnologies of our products and product candidates.
+Our sales and marketing efforts primarily include educating hospitals, physicians and
+health checkup centers on the benefits of our tests and products and the clinical data supportingour performance. Specifically, our sales and marketing personnel are responsible forestablishing and maintaining relationships with hospitals and other health institutions andincreasing the awareness and recognition of our products among physicians in their coveredregion, through academic marketing activities and other promotional efforts. We prioritizedeveloping business relationship with hospitals. They also collect feedback on our products forfurther improvement. Besides, we also coordinate with distributors in the promotion anddistribution of our products by providing trainings on the disease screening industry andbenefits and performance of our tests and products. Our management closely oversees the salesactivities and results in the major markets and determines the sales and pricing policies in eachmarket.SUMMARY
+–1 1–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Marketing Model
+Our gastric cancer screening product, GASTROClearTM, primarily targets mass market in
+Southeast Asia where gastric cancer shows high prevalence with a 143.8 million peoplerecommended for early screening of gastric cancer in 2022 and the number is expected tofurther increase to 171.6 million in 2023, according to Frost & Sullivan. We expectGASTROClear
+TMgradually to become the first-step of gastric cancer screening with its
+convenience, sensitivity and affordable price. We believe with its less-invasive nature ascompared to the traditional gastro-endoscopy, GASTROClear
+TMwill help enhance awareness
+and population compliance of gastric cancer screening. Our COVID-19 screening product,Fortitude
+TMKit, provides a fast and sensitive solution to detect the presence of SARS-CoV-2
+and has achieved commercial success as evidenced by its quick deployment through Singaporeand other major jurisdictions.
+We employ a strategic marketing model to promote the awareness of our products, which
+consists of (i) mass market education, (ii) global partnership and clinical research sponsorshipwith hospitals and research institutions, (iii) attending and sponsoring medical summits,conferences and seminars and (iv) enhance media awareness and engaging charities. Ourmarketing efforts are facilitated through both online platforms and offline channels, to ourexisting customers and potential new customers.
+We believe in a tailored go-to-market approach when expanding into new markets. We
+envision our expansion into the PRC and the United States to be eventually spearheaded by ourearly detection test kit products. The offering of our early detection test kit products, such asGASTROClear
+TM, will enable us to effectively penetrate these markets and establish brand
+awareness and presence in the near to mid-term. In the PRC, our strategy will be to offer LDTservices to private screening services and public hospitals to establish brand presence andgenerate demand momentum, before progressing to sales of IVD test kit products. We plan tofollow a similar approach when we expand into the United States, with adaptations for localmarket characteristics.
+Our Sales Arrangements
+We provide our products through direct sales primarily to hospitals, clinics and health
+checkup centers, and through distributors. We have established an extensive sales anddistribution network, covering more than 20 countries as of the Latest Practicable Date.
+Direct Sales
+Our revenue primarily come from direct sales, which mainly include hospitals, clinics and
+health checkup centers.SUMMARY
+–1 2–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Hospitals
+We have been focusing on clinical utility and academic promotion to market
+GASTROClearTMto physicians and hospitals. The first-in-class nature of our
+GASTROClearTMand the improved convenience, clinical performance and user-experience
+compared to traditional gastric cancer screening solutions enable us to advance academicmarketing and deepen our collaboration with hospitals. Such relationships were developed byour in-house sales staff. We normally enter into collaboration agreements with hospitals for aterm of two years, which may be renewed upon mutual consent. In general, pursuant to suchagreements, hospitals may order cancer screening tests or products from us, which are appliedto end-users at the prices agreed by the hospitals and us. We typically do not impose minimumorder requirements on hospitals.
+Clinics
+We also sell our products, including GASTROClear
+TMand FortitudeTMKit, to the clinics,
+including both independent and in-hospital clinics, which will then offer to the users. Ouragreements with independent and in-hospital clinics generally have a term of one year, whichmay be renewed upon mutual consent. Pursuant to such agreements, clinics may order productsfrom us, typically with no minimum order requirement. In general, clinics are required to sellour products to end-users at the prices agreed with us.
+Health checkup centers
+We primarily promote GASTROClear
+TMat health checkup centers. We have established
+solid business collaborations with leading health checkup centers across Singapore and otherselected markets, which we believe enables us to quickly penetrate the market with awell-developed end-user base and to extensively promote market acceptance of our existingand future products. Health checkup centers also benefit from the convenience and highefficiency of our products. We normally enter into collaboration agreements with healthcheckup centers for a term of one year, which may be renewed upon mutual consent. In general,pursuant to such agreements, health checkup centers may order our products based on demandsfrom its customers, with no minimum order requirement. In addition, we collaborate with thehealth checkup centers to offer customized health screening packages that consist ofGASTROClear
+TMand other screening products for customers of the health checkup centers to
+provide them with more tailored health information and reduce overall costs.
+Sales through Distributors
+In the medical device industry, it is customary to rely on distributors for the sales of
+medical devices to medical institutions, according to Frost & Sullivan. In line with the industrypractice, we also cooperate with distributors who purchase products and/or testing servicesfrom us and further sell them to downstream customers, such as certain hospitals, clinics,health checkup centers. Our distributors primarily engage in the medical device distributionbusiness and all of our distributors are independent third parties. Our sales and marketing staffSUMMARY
+–1 3–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.screen and select distributors whom we believe have the required qualifications and
+capabilities and are suited to our strategic marketing model, and establish and maintainresource sharing with our distributors to effectively execute our marketing strategiesspecifically tailored to each designated geographic location. For details, see “Business – Salesand Marketing”.
+CUSTOMERS
+During the Track Record Period, we derived a majority of our revenues from our
+GASTROClear
+TMtests and FortitudeTMKit. For the years ended December 31, 2021 and 2022
+and the four months ended April 30, 2023, the aggregate revenue generated from our fivelargest customers were US$55.8 million, US$7.6 million and US$2.5 million, representing92.0%, 42.7% and 43.7% of our revenue, respectively. Revenues generated from our largestcustomer for the same periods were US$40.0 million, US$2.3 million and US$0.9 million,representing 65.9%, 13.1% and 15.6% of our revenue, respectively. Our five largest customersin 2021, 2022 and the first four months in 2023 primarily included government agencies,healthcare platforms, hospitals, and medical device and biotech enterprises. As we furtherincrease market penetration of GASTROClear
+TMand FortitudeTMKit in Singapore and other
+jurisdictions and expand our commercialization channels, we expect the percentage of theaggregate revenue generated from our five largest customers out of our total consolidatedrevenue will decrease. We generally allow for a credit period of up to one month, and forcertain customers we may grant an extended credit term of up to twelve months. For details,see “Business – Customers.”
+RAW MATERIALS AND SUPPLIERS
+During the Track Record Period, our suppliers primarily consisted of (i) suppliers of our
+raw materials for production and testing services; (ii) CROs, who provide third-partycontracting services for research and development; and (iii) suppliers of fixed assets forresearch and development activities, machines and equipment for our production and testingservices. For the years ended December 31, 2021 and 2022 and the four months ended April30, 2023, the aggregate purchases from our five largest suppliers were US$11.4 million,US$14.9 million and US$1.6 million, accounting for 59.9%, 48.4% and 42.5% of our totalpurchases, respectively. Purchases from our largest supplier for the same periods were US$3.7million, US$4.8 million and US$0.6 million, representing 19.6%, 15.7% and 16.5% of our totalpurchases, respectively. For details, see “Business – Raw Materials and Suppliers”.
+INTELLECTUAL PROPERTY RIGHTS
+Intellectual property rights are important to our business. Our future commercial success
+depends, in part, on our ability to obtain and maintain patents and other intellectual propertyand proprietary protections for commercially important technologies, inventions and know-how related to our business, defend and enforce our patents, preserve the confidentiality of ourtrade secrets, and operate without infringing, misappropriating or otherwise violating the valid,enforceable intellectual property rights of third parties.SUMMARY
+–1 4–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.As of the Latest Practicable Date, we owned or in-licensed 17 patent families at different
+stages of maturity comprising 24 issued patents and 63 pending patent applications, all ofwhich are invention patents and patent applications. As of the Latest Practicable Date, weowned or in-licensed 12 issued and published patents, as well as 25 pending patentapplications, that are related to our Core Product.
+The term of an individual patent may vary based on the countries/regions in which it is
+granted. In most countries and regions in which we file patent applications, includingSingapore, China and the United States, the term of an issued invention patent is generally 20years from the filing date of the earliest non-provisional patent application on which the patentis based in the applicable country. In the United States, a patent’s term may be lengthened insome cases by a patent term adjustment, which extends the term of a patent to account foradministrative delays by the United States Patent and Trademark Office, or USPTO, in excessof a patent applicant’s own delays during the prosecution process, or may be shortened if apatent is terminally disclaimed over a commonly-owned patent having an earlier expirationdate. For details, see “Business – Intellectual Property Rights.”
+During the Track Record Period and up to the Latest Practicable Date, we were not
+involved in any material proceedings in respect of, and we had not received notice of anymaterial claims of infringement of, any intellectual property rights that are threatened orpending, in which we may be a claimant or a respondent. For details, see “Appendix IV –Statutory and General Information – B. Future Information about Our Business – 2. IntellectualProperty Rights.”SUMMARY
+–1 5–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.SUMMARY OF KEY FINANCIAL INFORMATION
+This summary of key financial information set forth below has been derived from, and
+should be read in conjunction with, our consolidated financial statements, including theaccompanying notes, set forth in the Accountants’ Report set out in Appendix I to thisDocument, as well as the information set forth in “Financial Information” of this Document.Our financial information was prepared in accordance with IFRS.
+Summary of Consolidated Statements of Profit or Loss
+The table below sets forth a summary of our consolidated statements of profit or loss and
+other comprehensive income with line items in absolute amounts and as percentages of ourrevenue for the periods indicated, which are derived from the Accountants’ Report included inAppendix I to this Document:
+For the year ended December 31, For the four months ended April 30,
+2021 2022 2022 2023
+US$%o f
+Revenue US$%o f
+Revenue US$%o f
+Revenue US$%o f
+Revenue
+(unaudited)
+Revenue ............. 60,649,846 100.0 17,758,971 100.0 3,503,857 100.0 5,775,147 100.0
+Cost of sales .......... (18,450,360) (30.4) (8,432,593) (47.5) (2,078,806) (59.3) (2,929,065) (50.7)
+Gross profit .......... 42,199,486 69.6 9,326,378 52.5 1,425,051 40.7 2,846,082 49.3
+Other income, other gains and
+(losses) ............ 5,530,749 9.1 2,333,802 13.1 247,828 7.1 (633,385) (11.0)
+Selling and distribution
+expenses ........... (4,894,779) (8.1) (13,586,495) (76.5) (3,958,819) (113.0) (4,392,465) (76.1)
+Research and development
+expenses ........... (7,882,121) (13.0) (18,481,794) (104.1) (4,006,451) (114.3) (6,659,329) (115.3)
+General and administrative
+expenses ........... (26,671,635) (44.0) (26,775,792) (150.8) (7,463,075) (213.0) (10,056,980) (174.1)
+Results from operating
+activities ........... 8,281,700 13.7 (47,183,901) (265.7) (13,755,466) (392.6) (18,896,077) (327.2)
+Finance income ......... 3,632 0.0 147,293 0.8 774 0.0 3,275 0.1
+Finance costs .......... (3,783,183) (6.2) (8,743,333) (49.2) (2,820,499) (80.5) (2,897,240) (50.2)
+(3,779,551) (6.2) (8,596,040) (48.4) (2,819,725) (80.5) (2,893,965) (50.1)SUMMARY
+–1 6–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.For the year ended December 31, For the four months ended April 30,
+2021 2022 2022 2023
+US$%o f
+Revenue US$%o f
+Revenue US$%o f
+Revenue US$%o f
+Revenue
+(unaudited)
+Profit/(Loss) before
+taxation ........... 4,502,149 7.4 (55,779,941) (314.1) (16,575,191) (473.1) (21,790,042) (377.3)
+Income tax
+(expenses)/credit ...... (7,583,247) (12.5) (422,803) (2.4) (406,225) (11.6) 202,984 3.5
+Loss for the year/period ... (3,081,098) (5.1) (56,202,744) (316.5) (16,981,416) (484.6) (21,587,058) (373.8)
+Loss attributable to:
+Equity shareholders of
+the Company ......... (3,081,098) (5.1) (56,641,613) (318.9) (16,981,416) (484.6) (21,750,426) (376.6)
+Non-controlling interests .... – – 438,869 2.5 – – 163,368 2.8
+(3,081,098) (5.1) (56,202,744) (316.5) (16,981,416) (484.6) (21,587,058) (373.8)
+Other comprehensive
+income/(loss) for theyear/period
+Item that is or may be
+reclassified subsequentlyto profit or loss:
+Foreign currency translation
+differences .......... (522,803) (0.9) (1,570,455) (8.8) (652,963) (18.6) 60,413 1.0
+Total comprehensive income
+for the year/period ..... (3,603,901) (5.9) (57,773,199) (325.3) (17,634,379) (503.3) (21,526,645) (372.7)
+Total comprehensive income
+attributable to:
+Equity shareholders of the
+Company ........... (3,603,901) (5.9) (58,192,530) (327.7) (17,634,379) (503.3) (21,696,854) (375.7)
+Non-controlling interests .... – – 419,331 2.4 – – 170,209 2.9
+Total comprehensive income
+for the year/period ..... (3,603,901) (5.9) (57,773,199) (325.3) (17,634,379) (503.3) (21,526,645) (372.7)
+For more information, please refer to the section headed “Financial Information –
+Description of Selected Components of Statements of Profit or Loss”.SUMMARY
+–1 7–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Summary Data from Consolidated Statements of Financial Position
+The table below sets forth a summary of selected information from our consolidated
+statements of financial position as of the dates indicated, which have been derived from theAccountants’ Report set out in Appendix I to this Document:
+As of December 31,As of
+April 30,
+2021 2022 2023
+US$ US$ US$
+ASSETS
+Total non-current assets ............. 22,161,882 57,800,863 55,575,486
+Total current assets ................ 138,439,476 62,026,527 45,935,091
+Total assets ...................... 160,601,358 119,827,390 101,510,577
+LIABILITIES
+Total current liabilities .............. 30,694,009 32,339,923 33,879,210
+Total non-current liabilities .......... 134,793,654 149,249,430 150,919,975
+Total liabilities ................... 165,487,663 181,589,353 184,799,185
+Net current assets ................ 107,745,467 29,686,604 12,055,881
+Net liabilities .................... (4,886,305) (61,761,963) (83,288,608)
+EQUITY
+Share capital ..................... 1,333 1,333 1,333
+Reserves ........................ (4,887,638) (63,723,473) (85,420,327)
+Equity attributable to equity
+shareholders of the Company ..... (4,886,305) (63,722,140) (85,418,994)
+Non-controlling interests ............ – 1,960,177 2,130,386
+Total deficit ..................... (4,886,305) (61,761,963) (83,288,608)SUMMARY
+–1 8–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.The following table sets forth our current assets and current liabilities as of the dates
+indicated:
+As of December 31,As of
+April 30,As of
+May 31,
+2021 2022 2023 2023
+US$ US$ US$ US$
+(unaudited)
+Current assets
+Inventories ............... 8,516,442 8,318,535 8,170,108 7,931,205
+Trade and other receivables . . 25,695,566 26,474,996 20,173,497 19,367,641Prepayment and deposits .... 2,075,812 3,968,580 4,244,422 3,814,939
+Tax receivables ........... – 3,412,572 2,692,445 2,741,888
+Cash and cash equivalents . . . 102,151,656 19,851,844 10,654,619 9,354,886
+Total current assets ....... 138,439,476 62,026,527 45,935,091 43,210,559
+Current liabilities
+Trade and other payables .... 1 1,754,870 14,869,560 16,601,938 19,176,845
+Contract liabilities ......... 9,598,714 7,909,536 7,645,689 7,530,743
+Lease liabilities ........... 1,742,510 3,712,920 3,750,267 3,636,204
+Tax payables ............. 7,597,915 5,847,907 5,881,316 5,802,231
+Total current liabilities .... 30,694,009 32,339,923 33,879,210 36,146,023
+Net current assets ........ 107,745,467 29,686,604 12,055,881 7,064,536
+We had net current assets of US$29.7 million as of December 31, 2022, compared to net
+current assets of US$107.7 million as of December 31, 2021. The significant decrease wasprimarily due to a decrease in cash and cash equivalents from US$102.2 million as ofDecember 31, 2021 to US$19.9 million as of December 31, 2022, as a result of the increasein operating costs, acquisition of new business, and the investment in building newmanufacturing and laboratory infrastructure.
+We had net current assets of US$12.1 million as of April 30, 2023, compared to net
+current assets of US$29.7 million as of December 31, 2022. The change was primarilyattributable to 1) a decrease in cash and cash equivalents from US$19.9 million as of December31, 2022 to US$10.7 million as of April 30, 2023, as a result of an increase in operating costs,and 2) an increase in trade and other payables from US$14.9 million as of December 31, 2022to US $16.6 million as of April 30, 2023, as a result of our stronger bargaining power to obtainmore favorable credit periods from our suppliers.
+We had net current assets of US$7.1 million as of May 31, 2023, being the latest
+practicable date for the purpose of liquidity disclosure in this Document, and compared to netcurrent assets of US$12.1 million as of April 30, 2023. The change was primarily due to anincrease in trade and other payables from US$16.6 million as of April 30, 2023 to US$19.2million as of May 31, 2023 as a result of lingering impacts of favorable credit periods grantedto us.
+For more information, please refer to the section headed “Financial Information – Net
+Current Assets/Liabilities”.SUMMARY
+–1 9–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Summary of Consolidated Cash Flow Statements
+The following table sets forth a summary of selected information from our consolidated
+statement of cash flows for the periods indicated, which have been derived from theAccountants’ Report set out in Appendix I to this Document:
+For the year ended
+December 31,For the four months
+ended April 30,
+2021 2022 2022 2023
+US$ US$ US$ US$
+(unaudited)
+Cash flows from operating
+activities beforemovements in workingcapital ................ 22,844,006 (38,939,574) (10,737,419) (15,171,108)
+Changes in working capital . . (29,178,057) (4,890,251) (7,663,583) 7,844,564Tax paid/(refund) ......... (2,365,876) (4,205,016) (1,930) 756,660
+Net cash used in operating
+activities .............. (8,699,927) (48,034,841) (18,402,932) (6,569,884)
+Net cash used in investing
+activities .............. (7,765,691) (30,432,059) (9,131,898) (1,036,296)
+Net cash generated
+from/(used in) financingactivities .............. 83,699,508 (1,551,491) (574,296) (1,351,940)
+Net increase/(decrease) in
+cash and cash equivalents. . 67,233,890 (80,018,391) (28,109,126) (8,958,120)
+Effect of foreign exchange
+rate changes ............ (640,726) (2,281,421) (561,657) (239,105)
+Cash and cash equivalents at
+the beginning of theyear/period ............. 35,558,492 102,151,656 102,151,656 19,851,844
+Cash and cash equivalents
+at the end of theyear/period ............ 102,151,656 19,851,844 73,480,873 10,654,619
+During the Track Record Period, we relied on capital contributions by our shareholders
+as the major sources of liquidity. We also generate cash from sales of Fortitude
+TMKit,
+GASTROClearTM, LungClearTMand provision of health screening and other services. As our
+business develops and expands, we expect to generate more net cash from our operatingactivities, through increasing sales of our commercialized products and services and launchingnew products, as a result of the broader market acceptance of our existing products and ourcontinued efforts in marketing and expansion, and improving cost control and operatingefficiency.SUMMARY
+–2 0–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.With respect to cash management, our objective is to optimize liquidity to secure a stable
+return for Shareholders in a risk-averse manner. Specifically, we have policies in place tomonitor and manage the settlement of trade receivables. When determining the credit term ofa customer, we consider a number of factors, including its cash flow conditions andcreditworthiness. To monitor the settlement of our trade receivables and avoid credit losses, weconduct annual review of each customer’s financial performance, which is primarily based onthe amount and aging of the trade receivables due from such customer in the respective period.
+For more information, please refer to the section headed “Financial Information –
+Liquidity and Capital Resources”.
+WORKING CAPITAL
+The Directors are of the opinion that, taking into account of the financial resources
+available to us described below, we have sufficient working capital to cover at least 125% ofour costs, including research and development expenses, selling and distribution expenses,general and administrative expenses, finance costs and other expenses for at least the next 12months from the date of this Document:
+ our future operating cash flows in respective periods; cash and cash equivalents; available equity financing and bank facilities; and the estimated net [ REDACTED ] from the [ REDACTED ].
+Our cash burn rate refers to the average monthly (i) net cash used in operating activities,
+which includes research and development expenses, and (ii) capital expenditures. We had cashand cash equivalents of US$9.4 million as of May 31, 2023. We also received the proceedsfrom our Series D Financing of US$50 million in July 2023. We estimate that we will receivenet [REDACTED ] of approximately HK$[ REDACTED ] after deducting the [ REDACTED ]
+fees and expenses payable by us in the [ REDACTED ], assuming no [ REDACTED ]i s
+exercised and assuming an [ REDACTED ] of HK$[ REDACTED ] per [ REDACTED ], being
+the lower-end-point of the indicative [ REDACTED ] of HK$[ REDACTED ]t o
+HK$[ REDACTED ] per [ REDACTED ] in this Document. Assuming an average cash burn rate
+going forward of [1.2] times the level in 2022, we estimate that our cash and cash equivalentsas of May 31, 2023 plus the proceeds from our Series D Financing will be able to maintain ourfinancial viability for [8.4] months or, if we take into account [ REDACTED ]% of the
+estimated net [ REDACTED ] from the [ REDACTED ] (namely, the portion allocated for our
+working capital and other general corporate purposes), [ REDACTED ] months or, if we also
+take into account the estimated net [ REDACTED ] from the [ REDACTED ], [REDACTED ]
+months.SUMMARY
+–2 1–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.KEY FINANCIAL RATIOS
+The table below sets forth the key financial ratios of our Group for the periods or as of
+the dates indicated:
+For the year ended/
+As of December 31,For the four months
+ended/As of April 30,
+2021 2022 2022 2023
+%%%%
+Gross profit margin(1)...... 69.6 52.5 40.7 49.3
+Current ratio(2)............ 451.0 191.8 N/A 135.6
+Notes:
+(1) Gross profit margin equals gross profit divided by revenue for the year/period.(2) Current ratio equals current assets divided by current liabilities as of the end of the year/period.
+Our gross profit margin was 52.5% for the year ended December 31, 2022. Our gross
+profit margin decreased for the year ended December 31, 2022 compared to that for the yearended December 31, 2021, primarily due to lower margins of our Infectious Diseases businesssegment. Our gross profit margin increased from 40.7% for the four months ended April 30,2022 to 49.3% for the four months ended April 30, 2023, primarily due to the increase inrevenue generated from the Early Detection and Precision Multi-omics business segment witha higher gross profit margin, as compared to the Infectious Diseases business segment.
+Our current ratio decreased from 451.0% as of December 31, 2021 to 191.8% as of
+December 31, 2022, primarily due to a significant decrease in cash and cash equivalents, as aresult of the increase in operating costs, acquisition of new business, and the investment inbuilding new manufacturing and laboratory infrastructure. Our current ratio further decreasedto 135.6% as of April 30, 2023, primarily due to a decrease in cash and cash equivalents, asa result of an increase in operating costs, and an increase in trade and other payables as a resultof our stronger bargaining power to obtain more favorable credit periods from our suppliers.
+[REDACTED ]SUMMARY
+–2 2–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.[REDACTED ]
+OUR MAJOR SHAREHOLDERS
+Upon the completion of the [ REDACTED ] (assuming the [ REDACTED ]i sn o t
+exercised), our co-founders and/or their associates, namely (i) Dr. Too, who is our co-founder,non-executive Director, Chairman of the Board and the Chief Scientific Adviser, (ii) SLW GeneLimited, a company ultimately controlled by Dr. Zhou, who is our co-founder, executiveDirector and Chief Executive Officer, and (iii) Accurate Gene Limited, a company ultimatelycontrolled by Dr. Zou, who is our co-founder, executive Director, Deputy CEO, and ChiefTechnology Officer, will hold approximately [ REDACTED ]%, [ REDACTED ]% and
+[REDACTED ]% of the total issued share capital of our Company, respectively. See
+“Substantial Shareholders” and “History, Reorganization and Corporate Structure.”
+OUR [REDACTED ]INVESTORS
+Since the establishment of our Company, we have received multiple series of equity
+financing from our [ REDACTED ] Investors. The total funds raised from the [ REDACTED ]
+Investments were approximately US$167.2 million. Our [ REDACTED ] Investors include
+professional investors principally engaged in investments focusing on the healthcare industries.The Sophisticated Investors of the Company, including Rock Springs Capital, Gaorong Capitaland CR-CP Life Science Fund, have made meaningful investments to our Company, theaggregate of which are expected to be more than 3% of the issued share capital of our Companyat the time of [ REDACTED ]. See “History, Reorganization and Corporate Structure –
+[REDACTED ] Investments.”
+DIVIDEND
+No dividend has been proposed, paid or declared by our Company since our incorporation
+till the Latest Practicable Date.SUMMARY
+–2 3–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.We are a holding company incorporated in the Cayman Islands. We may need dividends
+and other distributions on equity from our Singapore and PRC subsidiaries to satisfy ourliquidity requirements. Current PRC regulations permit our PRC subsidiaries to pay dividendsto us only out of their accumulated profits, if any, determined in accordance with PRCaccounting standards and regulations. In addition, our PRC subsidiaries are required to setaside at least 10.0% of their respective accumulated profits each year, if any, to fund certainreserve funds until the total amount set aside reaches 50.0% of their respective registeredcapital. Our PRC subsidiaries may also allocate a portion of its after-tax profits based on PRCaccounting standards to employee welfare and bonus funds at their discretion. These reservesare not distributable as cash dividends. Furthermore, if our PRC subsidiaries incur debt on theirown behalf in the future, the instruments governing the debt may restrict their ability to paydividends or make other payments to us. In addition, the PRC tax authorities may require usto adjust our taxable income under the contractual arrangements we currently have in place ina manner that would materially and adversely affect our PRC subsidiaries’ ability to paydividends and other distributions to us. Under Singapore law, no dividend shall be payable toshareholders of any company except out of profits. Any final dividends declared must beapproved by an ordinary resolution of shareholders at a general meeting. Dividends shall notbe paid in excess of the amount recommended by the board. The board may, without theapproval of the shareholders, also declare interim dividends. Singapore adopts the one-tiercorporate taxation system (the “One-Tier System”). Under the One-Tier System, the taxcollected from corporate profits is a final tax and the after-tax profits of the company residentin Singapore can be distributed to the shareholders as tax-exempt dividends. Such dividendsare tax-exempt in the hands of the shareholders, regardless of whether the shareholder is acompany or an individual and whether or not the shareholder is a Singapore tax resident.
+We currently expect to retain all future earnings for use in the operation and expansion
+of our business and do not anticipate paying cash dividends in the foreseeable future. Anydeclaration and payment as well as the amount of dividends will be subject to our constitutionaldocuments and the Cayman Companies Act. The declaration and payment of any dividends inthe future may be determined by our Board as it thinks fit, and will depend on a number offactors, including our earnings, capital requirements, overall financial condition andcontractual restrictions. Our shareholders in a general meeting may approve any declaration ofdividends, which must not exceed the amount recommended by our Board. As advised by ourCayman counsel, under the Cayman Islands law, a Cayman Islands company may pay adividend out of either profits or share premium account, provided that in no circumstances maya dividend be paid if this would result in the company being unable to pay its debts as they falldue in the ordinary course of business. In light of our accumulated losses as disclosed in thisDocument, it is unlikely that we will be eligible to pay a dividend out of our profits in theforeseeable future. We may, however, pay a dividend out of our share premium account unlessthe payment of such a dividend would result in our Company being unable to pay our debts asthey fall due in the ordinary course of business. There is no assurance that dividends of anyamount will be declared to be distributed in any year.SUMMARY
+–2 4–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.USE OF [REDACTED ]
+We estimate that the aggregate net [ REDACTED ] to our Company from the
+[REDACTED ] (after deducting [ REDACTED ] fees and estimated expenses in connection
+with the [ REDACTED ] payable by us and assuming that the [ REDACTED ] is not exercised
+and an [ REDACTED ] of HK$[ REDACTED ] per Share, being the mid-point of the indicative
+[REDACTED ] stated in this Document) will be approximately HK$[ REDACTED ].
+We currently intend to use the net [ REDACTED ] from the [ REDACTED ] for the
+following purposes, subject to changes in light of our evolving business needs and changingmarket conditions:
+ approximately HK$[ REDACTED ], being [[ REDACTED ]%] of the net
+[REDACTED ] from the [ REDACTED ], is expected to be used primarily for the
+research and development, regulatory filings and manufacturing andcommercialization of our Core Product, GASTROClear
+TM;
+ Approximately HK$[ REDACTED ], being [ REDACTED ]% of the net
+[REDACTED ] from the [ REDACTED ], to fund ongoing and planned R&D to
+further develop our pipeline products;
+ Approximately HK$[ REDACTED ], being [ REDACTED ]% of the net
+[REDACTED ] from the [ REDACTED ], to be used for strengthening and
+integrating our “end-to-end” capabilities to capture significant commercial potentialalong the value chain;
+ Approximately HK$[ REDACTED ], being [ REDACTED ]% of the net
+[REDACTED ] from the [ REDACTED ], to be used for our working capital and
+other general corporate purposes.
+For details, see “Future Plans and Use of [ REDACTED ]”.
+RISK FACTORS
+We believe there are certain risks and uncertainties involved in our operations, some of
+which are beyond our control. These risks are set out in “Risk Factors” in this Document. Someof the major risks we face include:
+ The sales of Fortitude
+TMKit in our Infectious Diseases business segment constituted
+a meaningful portion of revenues in 2021 and 2022, and our future revenues willdepend on the further sales and commercialization of GASTROClear
+TMand other
+product candidates in our Early Detection and Precision Multi-omics businesssegment;SUMMARY
+–2 5–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT. Our future growth depends substantially on the success of our product candidates.
+If we are unable to successfully complete clinical development, obtain and maintainthe necessary regulatory approval, commercialize our product candidates, or keep upwith industry and technology developments, or if we experience significant delaysin doing so, our business may be materially adversely affected;
+ If we encounter difficulties enrolling subjects in our clinical trials, our clinical
+development activities could be delayed or may otherwise adversely affected;
+ If we do not introduce new products in a timely manner, our products may become
+obsolete and our operating results and prospects may suffer;
+ Uncertainties or failures of the clinical trials of our product candidates may have a
+material and adverse effect on our business operations;
+ Ethical, legal and social concerns related to the collection and use of genetic
+information could reduce demand for our products and services;
+ If we are not able to obtain and maintain the necessary regulatory approvals,
+permits, registrations or filings, or if we experience delays in obtaining suchregulatory approvals, permits, registrations or filings, we may not be able tocommercialize our product candidates, and our ability to generate revenue may bematerially impaired;
+ If our laboratory facilities fail to comply with applicable laboratory license
+requirements, or become contaminated, damaged, destroyed or inoperable, or we arerequired to vacate the facility, our ability to sell and provide our services, pursue ourresearch and development efforts and operate our business may be jeopardized;
+ Our operations and business plans may be adversely affected by natural disasters,
+health epidemics and pandemics, civil and social disruption and other outbreaks;
+ We have incurred net losses since our inception and may incur net losses for the
+foreseeable future, and you may lose substantially all your [ REDACTED ]i nu s
+given the high risks involved in the medical device business;
+ If we are unable to obtain and maintain patent protection in certain markets for our
+products and product candidates through intellectual property rights, or if the scopeof such intellectual property rights obtained is not sufficiently broad, third partiesmay compete directly against us; and
+ We conduct the Relevant Businesses in the PRC through our Consolidated Affiliated
+Entities by way of Contractual Arrangements, and if the PRC government finds thatthese Contractual Arrangements do not comply with applicable PRC laws andregulations, or if these regulations or their interpretations change in the future, wecould be subject to penalties or be forced to relinquish our interests in thoseoperations.SUMMARY
+–2 6–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.CONTRACTUAL ARRANGEMENTS
+We are an RNA technology company that is making diagnostic solutions for the early
+detection of diseases (the “ Relevant Businesses ”), which involves the development and
+application of gene diagnostic and therapeutic technologies, and therefore fall into the scopeof the “prohibited” category of the Relevant PRC Regulations. As such, we currently do notdirectly or indirectly hold any equity interest in our Consolidated Affiliated Entities which areinvolved in the Relevant Businesses.
+In order to comply with the PRC laws and regulations and maintain effective control over
+the Relevant Businesses, a series of Contractual Arrangements has been entered into among (i)Hangzhou Miwei, Hangzhou Miyin, Hangzhou Mirui, Hangzhou Mian and the IndividualRegistered Shareholders, and (ii) Hangzhou Miwei, Linuokang Lab and the RegisteredShareholders, respectively, pursuant to which Hangzhou Miwei acquired effective control overthe finance and operations of our Consolidated Affiliated Entities and is entitled to all theeconomic benefits derived from their operations. See “Contractual Arrangements.”
+The following simplified diagram illustrates the flow of economic benefits from our
+Consolidated Affiliated Entities to our Group stipulated under the Contractual Arrangementsafter completion of the Reorganization:
+Corporate
+Registered ShareholderHangzhou Miwei(1)Individual Registered
+Shareholders
+Hangzhou Miyin(2)
+Hangzhou Mirui(2)
+Hangzhou Mian(2)Linuokang Lab(2)(3) (3) (4) (4)(5)(5)
+100%
+100%
+100%100%100%(5) (5)
+“ ” denotes legal and beneficial ownership in the equity interest
+“ ” denotes the Contractual ArrangementsSUMMARY
+–2 7–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Notes:
+(1) As of the Latest Practicable Date, Hangzhou Miwei is wholly owned by Huzhou Mirui, which is indirectly
+wholly owned by our Company.
+(2) As of the Latest Practicable Date, our Consolidated Affiliated Entities include (i) Hangzhou Miyin, which is
+wholly owned by the Individual Registered Shareholders, namely as to 91% by Dr. Zou and 9% by Dr. Cheng;(ii) Hangzhou Mirui, which is wholly owned by Hangzhou Miyin; (iii) Hangzhou Mian, which is wholly ownedby Hangzhou Mirui, and (iv) Linuokang Lab, which is wholly owned by the Corporate Registered Shareholder.The Corporate Registered Shareholder, i.e., Linuokang Gene Technology is owned by Dr. Zou and Dr. Chengas to 91% and 9%, respectively.
+(3) Hangzhou Miwei provides business support, technical services and consultation services in exchange for
+service fees from Hangzhou Miyin. See “Contractual Arrangements – Exclusive Business CooperationAgreements.”
+(4) Hangzhou Miwei provides business support, technical services and consultation services in exchange for
+service fees from Linuokang Lab. See “Contractual Arrangements – Exclusive Business CooperationAgreements.”
+(5) The Individual Registered Shareholders executed the Individual Exclusive Option Agreement (as defined
+below) in favor of Hangzhou Miwei for the acquisition of 100% equity interests in Hangzhou Miyin. TheCorporate Registered Shareholder executed the Corporate Exclusive Option Agreement (as defined below) infavor of Hangzhou Miwei for the acquisition of 100% equity interests in Linuokang Lab. See “ContractualArrangements – Exclusive Option Agreements.”
+The Individual Registered Shareholders pledged as first charge all of their respective equity interests in
+Hangzhou Miyin to Hangzhou Miwei as security for their respective performance and Hangzhou Miyin’sperformance under the Individual Exclusive Business Cooperation Agreement (as defined below), theIndividual Exclusive Option Agreement (as defined below), the Individual Equity Pledge Agreement (asdefined below) and the Individual Power of Attorney (as defined below), as applicable. The CorporateRegistered Shareholder pledged as first charge all of its equity interests in Linuokang Lab to Hangzhou Miweias security for its performance and the performance of the Individuals Registered Shareholders and LinuokangLab under the Corporate Exclusive Business Cooperation Agreement (as defined below), the CorporateExclusive Option Agreement (as defined below), the Corporate Equity Pledge Agreement (as defined below)and the Corporate Power of Attorney (as defined below), as applicable. See “Contractual Arrangements –Equity Pledge Agreements.”
+The Individual Registered Shareholders executed the Individual Power of Attorney (as defined below) in favor
+of Hangzhou Miwei in respect of their respective rights as the shareholders of Hangzhou Miyin. The CorporateRegistered Shareholder executed the Corporate Power of Attorney (as defined below) in favor of HangzhouMiwei in respect of its rights as the shareholder of Linuokang Lab. See “Contractual Arrangements – Powersof Attorney.”
+The FIL was adopted at the Second Session of the Thirteenth National People’s Congress
+of the PRC on March 15, 2019 and came into force on January 1, 2020. The FIL replaced theSino-Foreign Equity Joint Venture Enterprise Law ( ʕ̮Υ༟຾ᐄΆุج ), the Sino-
+Foreign Cooperative Joint Venture Enterprise Law ( ʕ̮ΥЪ຾ᐄΆุج ) and the Wholly
+Foreign-Invested Enterprise Law ( ̮༟Άุج ), and became the legal foundation for
+foreign investment in the PRC. See “Regulatory Overview – Regulation of ForeignInvestment.”SUMMARY
+–2 8–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.Conducting operations through contractual arrangements has been adopted by many
+PRC-based companies, and has been adopted by our Company in the form of the ContractualArrangements, to establish control of our Consolidated Affiliated Entities, through which weoperate the Relevant Businesses in the PRC. The FIL does not explicitly stipulate thecontractual arrangements as a form of foreign investment or explicitly prohibit or restrict aforeign investor to rely on contractual arrangements to control the majority of its business thatis subject to foreign investment restrictions or prohibitions in the PRC. As advised by our PRCLegal Adviser, since the Contractual Arrangements are not specified as foreign investmentunder the FIL, if future laws, regulations and provisions prescribed by the State Council do notincorporate contractual arrangements as a form of foreign investment, our ContractualArrangements as a whole and each of the agreements comprising the Contractual Arrangementsdo not contravene the FIL in any material aspect, and will not be affected and will continue tobe legal, valid and binding on the parties with an exception that an arbitral body has no powerto grant injunctive relief and may not directly issue a provisional or final liquidation order forthe purpose of protecting the assets of or equity interests in the Consolidated Affiliated Entitiesin case of disputes, and that interim remedies or enforcement orders granted by overseas courtssuch as the courts of Hong Kong and the Cayman Islands may not be recognizable orenforceable in the PRC. See ‘‘– Legality of the Contractual Arrangements.”
+If the operation of our Relevant Businesses is not on the “negative list” and we can legally
+operate such businesses under PRC laws, Hangzhou Miwei will exercise the option under theExclusive Option Agreement to acquire the equity interest of our Consolidated AffiliatedEntities and unwind the contractual arrangements subject to re-approval by the relevantauthorities.
+Furthermore, although its implementing rules do not expressly stipulate the contractual
+arrangements as a form of foreign investment, there are possibilities that future laws,administrative regulations or provisions prescribed by the State Council may regard contractualarrangements as a form of foreign investment, at which time it will be uncertain whether theContractual Arrangements will be deemed to be in violation of the foreign investment accessrequirements and how the above-mentioned Contractual Arrangements will be handled.Therefore, there is no guarantee that the Contractual Arrangements and the business of theConsolidated Affiliated Entities will not be materially and adversely affected in the future dueto changes in PRC laws and regulations. In the event that such measures are not complied with,the Stock Exchange may take enforcement actions against us which may have a materialadverse effect on the [ REDACTED ] of our Shares. See “Risk Factors – Risks Relating to our
+Contractual Arrangements.”SUMMARY
+–2 9–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.[REDACTED ]EXPENSE
+The total [ REDACTED ] expenses payable by our Company are estimated to be
+approximately HK$[ REDACTED ] assuming the [ REDACTED ] is not exercised and based on
+an [REDACTED ] of HK$[ REDACTED ] (being the mid-point of our [ REDACTED ]o f
+HK$[ REDACTED ] to HK$[ REDACTED ] per [ REDACTED ]). These [ REDACTED ]
+expenses mainly comprise legal and other professional fees paid and payable to theprofessional parties, [ REDACTED ] payable to the [ REDACTED ], and printing and other
+expenses for their services rendered in relation to the [ REDACTED ] and the [ REDACTED ].
+For the years ended December 31, 2021 and 2022 and the four months ended April 30,
+2023, the [ REDACTED ] expenses (excluding [ REDACTED ]) incurred by our Company in
+relation to the [ REDACTED ] and the [ REDACTED ] were [ REDACTED ], [REDACTED ]
+and US$[ REDACTED ] respectively. We estimate that additional [ REDACTED ] expenses of
+approximately US$[ REDACTED ] (including [ REDACTED ] and other expenses, assuming
+the [ REDACTED ] is not exercised and based on the mid-point of our [ REDACTED ]o f
+HK$[ REDACTED ] to HK$[ REDACTED ] per [ REDACTED ]) will be incurred by our
+Company, approximately US$[ REDACTED ] of which is expected to be charged to our
+consolidated statements of profit or loss, and approximately US$[ REDACTED ] of which is
+expected to be capitalized.
+NO MATERIAL ADVERSE CHANGE
+Our Directors confirm that up to the date of this Document, save as disclosed in this
+Document, there has been no material adverse change in our financial, operational or tradingpositions or prospects since April 30, 2023, being the end of the period reported on as set outin the Accountants’ Report included in Appendix I to this Document.SUMMARY
+–3 0–THIS DOCUMENT IS IN DRAFT FORM, INCOMPLETE AND SUBJECT TO CHANGE AND THAT THE INFORMATION MUST
+BE READ IN CONJUNCTION WITH THE SECTION HEADED “WARNING” ON THE COVER OF THIS DOCUMENT.
